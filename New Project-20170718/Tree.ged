@@ -1,0 +1,5369 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P2@ INDI 
+1 BIRT 
+2 DATE 1 April 1972
+2 PLAC Belfast, Antrim, Northern Ireland
+1 SEX F
+1 NAME Susie /Green/
+1 FAMC @F40@
+0 @P1@ INDI 
+1 BIRT 
+2 DATE 17/3/1950
+2 PLAC Belfast, Antrim, Northern Ireland
+1 NAME David /Green/
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F40@
+0 @P3@ INDI 
+1 BIRT 
+2 DATE 9 Sep 1920
+2 PLAC Ligoniel, Antrim, Northern Ireland
+2 SOUR @S-220165085@
+3 _APID 1,2573::7677062
+1 NAME William John /Green/
+2 SOUR @S-220165085@
+3 _APID 1,2573::7677062
+1 SEX M
+1 FAMS @F1@
+0 @P4@ INDI 
+1 DEAT 
+2 DATE 1971
+2 PLAC Belfast, Antrim, Northern Ireland
+1 BIRT 
+2 DATE 5/1/1923
+2 PLAC Belfast, Antrim, Northern Ireland
+1 SEX F
+1 NAME Susan /Toan/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=288ca675-ee02-4b68-aff3-fe5007b6e88d&tid=84811748&pid=4
+2 FORM jpg
+2 TITL Sue
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P5@ INDI 
+1 DEAT 
+2 DATE 1965
+2 PLAC Belfast, Antrim, Northern Ireland
+1 BIRT 
+2 DATE 14 Oct 1890
+2 PLAC Ballynahinch Road, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::13080689
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16973099
+2 SOUR @S-220165085@
+3 _APID 1,2573::4557767
+1 NAME Thomas Robert /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::13080689
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16973099
+2 SOUR @S-220165085@
+3 _APID 1,2573::4557767
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16973099
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16973099
+1 DEAT 
+2 DATE Sep 1966
+2 PLAC USA
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13080689
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=8
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=10
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=5
+1 FAMC @F4@
+1 FAMS @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE abt 1892
+2 SOUR @S-220165084@
+3 _APID 1,70667::11751087
+2 SOUR @S300149048@
+3 PAGE Class: RG14
+3 _APID 1,70564::16340105
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=image&guid=2f7968f0-d0ce-475e-9d72-e83ff2cf8ed2&tid=84811748&pid=6
+3 FORM jpg
+3 TITL MatildaMcClure_Blainey_Birth_Cert_GRONI
+1 RESI Relation to Head of House: Boarder
+2 DATE 2 April 1911
+2 PLAC White Abbey, Antrim, Ireland
+2 SOUR @S300149048@
+3 PAGE Class: RG14
+3 _APID 1,70564::16340105
+1 NAME Matilda /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::11751087
+1 SEX F
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::11751087
+1 DEAT GRONI:  Matilda Toan 1st December 1934  42  Female Belfast
+2 DATE 1 December 1934
+2 PLAC Belfast, Antrim, Northern Ireland
+1 NAME Tillie /McClure/
+2 SOUR @S300149048@
+3 PAGE Class: RG14
+3 _APID 1,70564::16340105
+1 RESI Albert McClure Military Record: next of Kin on Joining is Matilda McClure 40 Oregon Street Belfast
+2 DATE June 1912
+2 PLAC 40 Oregon Street Belfast
+1 NAME Tillie /McClure/
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=9
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=11
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2f7968f0-d0ce-475e-9d72-e83ff2cf8ed2&tid=84811748&pid=6
+2 FORM jpg
+2 TITL MatildaMcClure_Blainey_Birth_Cert_GRONI
+1 FAMC @F5@
+1 FAMS @F2@
+0 @P7@ INDI 
+1 NAME Albert /Toan/
+1 SEX M
+1 FAMC @F2@
+0 @P8@ INDI 
+1 SEX M
+1 NAME Robert /Toan/
+1 FAMC @F2@
+0 @P9@ INDI 
+1 BIRT 
+2 DATE 1924
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220109567@
+3 _APID 1,7579::43107030
+1 DEAT 
+2 DATE 12 Jan 1961
+2 PLAC Liverpool North, Lancashire, England
+2 SOUR @S-220109567@
+3 _APID 1,7579::43107030
+2 SOUR @S-220109533@
+3 _APID 1,1904::13415397
+1 NAME Alfred /Toan/
+2 SOUR @S-220109567@
+3 _APID 1,7579::43107030
+2 SOUR @S-220109556@
+3 _APID 1,8753::58188549
+2 SOUR @S-220109533@
+3 _APID 1,1904::13415397
+1 MARR 
+2 DATE Dec 1947
+2 PLAC Liverpool, Lancashire
+2 SOUR @S-220109556@
+3 _APID 1,8753::58188549
+1 SEX M
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=9
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=9658d818-21be-47c3-99e1-032a0daa0c88&tid=84811748&pid=9
+2 FORM jpg
+2 TITL BMD-M-1947-4-AZ-001457
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=9658d818-21be-47c3-99e1-032a0daa0c88&tid=84811748&pid=9
+2 FORM jpg
+2 TITL BMD-M-1947-4-AZ-001457
+1 FAMC @F2@
+1 FAMS @F3@
+1 FAMS @F37@
+0 @P10@ INDI 
+1 NAME Jemima /Toan/
+1 SEX F
+1 BIRT 
+2 PLAC Belfast, Antrim, Northern Ireland
+1 FAMC @F2@
+0 @P11@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 1916
+2 PLAC Belfast, Antrim, Northern Ireland
+1 NAME Annie /Toan/
+1 FAMC @F2@
+1 FAMS @F36@
+0 @P12@ INDI 
+1 BIRT 
+2 PLAC Belfast, Antrim, Northern Ireland
+1 DEAT 
+2 DATE 16/9/1988
+2 PLAC Sydney, New South Wales, Australia
+2 SOUR @S-220165080@
+3 _APID 1,9182::317825
+1 NAME John Mc Veigh /Toan/
+2 SOUR @S-220165080@
+3 _APID 1,9182::317825
+1 SEX M
+1 RESI 
+2 DATE 1988
+2 PLAC Lansvale
+2 SOUR @S-220165080@
+3 _APID 1,9182::317825
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=15
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=17
+1 FAMC @F2@
+0 @P13@ INDI 
+1 BIRT 
+2 DATE 1865
+2 SOUR @S-220165084@
+3 _APID 1,70667::10338124
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::14841532
+1 DEAT 
+2 DATE 28 Sep 1943
+2 PLAC Ballintine, Lisburn, Co Antrim
+1 NAME Susan /Hull/
+2 SOUR @S-220165084@
+3 _APID 1,70667::10338124
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::14841532
+1 SEX F
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::14841532
+1 RESI Relation to Head of House: Wife
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::14841532
+1 RESI Relation to Head of House: Wife
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::10338124
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=16
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=18
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=13
+1 FAMS @F4@
+0 @P14@ INDI 
+1 BIRT 
+2 DATE 1864
+2 SOUR @S-220165084@
+3 _APID 1,70667::9502379
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::13540149
+1 DEAT 
+2 DATE 7 Jan 1940
+1 NAME Thomas Brady /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::9502379
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::13540149
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::13540149
+1 RESI Relation to Head of House: Head
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::13540149
+1 RESI Relation to Head of House: Head
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::9502379
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=17
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=19
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=14
+1 FAMC @F11@
+1 FAMS @F4@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 1861
+2 SOUR @S-220165084@
+3 _APID 1,70667::9510453
+1 RESI Relation to Head of House: Head
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::9510453
+1 NAME James /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::9510453
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F5@
+0 @P16@ INDI 
+1 BAPM 
+2 DATE 16 Aug 1863
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-220091911@
+3 _APID 1,9841::28186781
+1 NAME Elizabeth Catherine /Parish/
+2 SOUR @S-220165084@
+3 _APID 1,70667::10330566
+2 SOUR @S-220091911@
+3 _APID 1,9841::28186781
+1 BIRT 
+2 DATE 12 April 1863
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-220165084@
+3 _APID 1,70667::10330566
+1 SEX F
+1 RESI Relation to Head of House: Wife
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::10330566
+1 FAMC @F12@
+1 FAMS @F5@
+0 @P17@ INDI 
+1 BIRT 
+2 DATE 1919
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-210827898@
+3 _APID 1,7579::1202574
+1 DEAT 
+2 DATE May 1995
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-210827898@
+3 _APID 1,7579::1202574
+1 NAME Ivy May /Price/
+2 SOUR @S-210827898@
+3 _APID 1,7579::1202574
+1 SEX F
+1 NAME Ivy May /Price/
+2 SOUR @S-220109556@
+3 _APID 1,8753::58152274
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=17
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=9658d818-21be-47c3-99e1-032a0daa0c88&tid=84811748&pid=17
+2 FORM jpg
+2 TITL BMD-M-1947-4-AZ-001457
+1 FAMS @F3@
+1 FAMS @F37@
+0 @P18@ INDI 
+1 SEX M
+1 NAME Colin /Chivers/
+1 FAMS @F36@
+0 @P19@ INDI 
+1 BIRT GRONI:  John  Toan 14th June 1905 Male  Hall Belfast
+2 DATE 14 June 1905
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220165085@
+3 _APID 1,2573::6088580
+2 SOUR @S-210827895@
+3 _APID 1,2534::4746538
+1 DEAT 
+2 DATE Apr 1906
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-210827895@
+3 _APID 1,2534::4746538
+1 NAME John /Toan/
+2 SOUR @S-220165085@
+3 _APID 1,2573::6088580
+2 SOUR @S-210827895@
+3 _APID 1,2534::4746538
+1 SEX M
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=19
+1 FAMC @F4@
+0 @P20@ INDI 
+1 BIRT GRONI:  Margaret Toan 27th February 1903 Female Hull Belfast
+2 DATE abt 1903
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17535507
+1 NAME Marget /Toan/
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17535507
+1 SEX F
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17535507
+1 RESI Relation to Head of House: Daughter
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17535507
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=23
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=20
+1 FAMC @F4@
+0 @P21@ INDI 
+1 BIRT GRONI : Robert  Toan 11th March 1901 Male  Hull Belfast
+2 DATE 11/03/1901
+2 PLAC Belfast
+2 SOUR @S-220165073@
+3 PAGE Class: RG14
+3 _APID 1,70564::17509411
+2 SOUR @S-220165085@
+3 _APID 1,2573::5658681
+1 DEAT 
+2 DATE 1994
+1 NAME Robert /Toan/
+2 SOUR @S-220165073@
+3 PAGE Class: RG14
+3 _APID 1,70564::17509411
+2 SOUR @S-220165085@
+3 _APID 1,2573::5658681
+2 SOUR @S-220165084@
+3 _APID 1,70667::13259504
+1 SEX M
+2 SOUR @S-220165073@
+3 PAGE Class: RG14
+3 _APID 1,70564::17509411
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13259504
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165073@
+3 PAGE Class: RG14
+3 _APID 1,70564::17509411
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=38
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=31
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=21
+1 FAMC @F4@
+1 FAMS @F10@
+0 @P22@ INDI 
+1 BIRT Henry  Toan 7th March 1894 Male  Hull Lisburn
+2 DATE 7 Mar 1894
+2 PLAC Ballynahinch Road, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::13297348
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17351384
+2 SOUR @S-220165085@
+3 _APID 1,2573::4965890
+2 SOUR @S-220165075@
+3 _APID 1,1219::1981133
+1 DEAT 
+2 DATE 14 May 1969
+2 PLAC 79 Hunter Street, Belfast
+1 NAME Henry /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::13297348
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17351384
+2 SOUR @S-220165085@
+3 _APID 1,2573::4965890
+2 SOUR @S-220165075@
+3 _APID 1,1219::1981133
+2 SOUR @S-220165074@
+3 _APID 1,1262::5473061
+1 RESI Relation to Head of House: Self
+2 DATE 1915
+2 PLAC 103 Bristol St, Belfast
+2 SOUR @S-220165075@
+3 _APID 1,1219::1981133
+1 _MILT 
+2 DATE abt 1915
+2 SOUR @S-220165075@
+3 _APID 1,1219::1981133
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17351384
+1 RESI 
+2 PLAC England, Wales, Scotland, Ireland
+2 SOUR @S-220165074@
+3 _APID 1,1262::5473061
+1 _MILT 
+2 DATE 1914-1920
+2 SOUR @S-220165074@
+3 _APID 1,1262::5473061
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17351384
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13297348
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=31
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=30
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=22
+1 FAMC @F4@
+1 FAMS @F9@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE 7 Dec 1888
+2 PLAC Hill Street, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::13197445
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16428801
+1 DEAT GRONI:  William Toan 12th October 1933  43  Male  Belfast
+2 DATE 12 October 1933
+2 PLAC Belfast
+1 NAME William /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::13197445
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16428801
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16428801
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16428801
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13197445
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=32
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=29
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=23
+1 FAMC @F4@
+1 FAMS @F8@
+0 @P24@ INDI 
+1 BIRT GRONI: Samuel Toan 23rd October 1885 Male  Hull Lisburn
+2 DATE 23 Oct 1885
+2 PLAC Back Lane, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::12913111
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::15233950
+2 SOUR @S-220165076@
+3 _APID 1,2534::5264725
+1 DEAT 
+2 DATE 1913
+2 PLAC Belfast, Ireland
+2 SOUR @S-220165076@
+3 _APID 1,2534::5264725
+1 NAME Samuel /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12913111
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::15233950
+2 SOUR @S-220165076@
+3 _APID 1,2534::5264725
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::15233950
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::15233950
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12913111
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=33
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=28
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=24
+1 FAMC @F4@
+0 @P25@ INDI 
+1 BIRT GRONI:  Gibson Toan 11th April 1896 Male  Hull Lisburn
+2 DATE 11 Apr 1896
+2 PLAC Ballynahinch Road, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::12635997
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17402770
+2 SOUR @S-220165085@
+3 _APID 1,2573::5118413
+1 DEAT 
+2 DATE 14 May 1950
+2 PLAC Blaris, Lisburn
+1 NAME Gibson /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12635997
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17402770
+2 SOUR @S-220165085@
+3 _APID 1,2573::5118413
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17402770
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17402770
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12635997
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=34
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=27
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=25
+1 FAMC @F4@
+1 FAMS @F7@
+0 @P26@ INDI 
+1 BIRT GRONI:  Ann  Toan 5th October 1887 Female Hall Lisburn
+2 DATE 6 Oct 1887
+2 PLAC Hill Street, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::11756254
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16180570
+1 NAME Annie /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::11756254
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16180570
+1 SEX F
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16180570
+1 RESI Relation to Head of House: Daughter
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::16180570
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::11756254
+1 NAME Anne /Toan/
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=35
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=26
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=26
+1 FAMC @F4@
+1 FAMS @F13@
+0 @P27@ INDI 
+1 BIRT GRONI:   Albert  Toan 7th June 1898 Male  Hull Lisburn
+2 DATE 7 Jun 1898
+2 PLAC Ballynahinch Road, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::12279778
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17493139
+2 SOUR @S-220165079@
+3 PAGE Number: 151-07-6916; Issue State: New Jersey; Issue Date: Before 1951
+3 _APID 1,3693::62721541
+2 SOUR @S-220165078@
+3 _APID 1,60525::19483882
+2 SOUR @S-220165085@
+3 _APID 1,2573::5389078
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Paterson, Passaic, New Jersey; Roll: 1381; Page: 10B; Enumeration District: 0087; Image: 940.0; FHL microfilm: 2341116
+3 _APID 1,6224::10734707
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 146
+3 _APID 1,1518::7090468
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955449
+2 SOUR @S-215749726@
+3 _APID 1,2997::141848990
+2 SOUR @S-215749726@
+3 _APID 1,2997::139610208
+2 SOUR @S-215749607@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 4693; Line: 22; Page Number: 219
+3 _APID 1,7488::2011940212
+1 DEAT 
+2 DATE Jul 1969
+2 PLAC Paterson, New Jersey, USA
+2 SOUR @S-220165079@
+3 PAGE Number: 151-07-6916; Issue State: New Jersey; Issue Date: Before 1951
+3 _APID 1,3693::62721541
+2 SOUR @S-220165078@
+3 _APID 1,60525::19483882
+1 NAME Albert /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12279778
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17493139
+2 SOUR @S-220165079@
+3 PAGE Number: 151-07-6916; Issue State: New Jersey; Issue Date: Before 1951
+3 _APID 1,3693::62721541
+2 SOUR @S-220165078@
+3 _APID 1,60525::19483882
+2 SOUR @S-220165085@
+3 _APID 1,2573::5389078
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Paterson, Passaic, New Jersey; Roll: 1381; Page: 10B; Enumeration District: 0087; Image: 940.0; FHL microfilm: 2341116
+3 _APID 1,6224::10734707
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 146
+3 _APID 1,1518::7090468
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955449
+2 SOUR @S-215749839@
+3 _APID 1,2469::585068937
+2 SOUR @S-215749726@
+3 _APID 1,2997::141848990
+2 SOUR @S-215749726@
+3 _APID 1,2997::139610208
+2 SOUR @S-215749607@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 4693; Line: 22; Page Number: 219
+3 _APID 1,7488::2011940212
+1 RESI 
+2 PLAC Northern Ireland
+2 SOUR @S-215749607@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 4693; Line: 22; Page Number: 219
+3 _APID 1,7488::2011940212
+1 EVEN 
+2 TYPE Departure
+2 PLAC Belfast, Northern Ireland
+2 SOUR @S-215749607@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 4693; Line: 22; Page Number: 219
+3 _APID 1,7488::2011940212
+1 EVEN 
+2 DATE 12 Mar 1930
+2 PLAC New York, New York
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Paterson, Passaic, New Jersey; Roll: 1381; Page: 10B; Enumeration District: 0087; Image: 940.0; FHL microfilm: 2341116
+3 _APID 1,6224::10734707
+2 SOUR @S-215749607@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 4693; Line: 22; Page Number: 219
+3 _APID 1,7488::2011940212
+1 EVEN 
+2 TYPE Departure
+2 DATE 17 Sep 1932
+2 PLAC Belfast, Northern Ireland
+2 SOUR @S-215749726@
+3 _APID 1,2997::139610208
+1 EVEN 
+2 TYPE Departure
+2 DATE 1 Mar 1930
+2 PLAC Belfast, Northern Ireland
+2 SOUR @S-215749726@
+3 _APID 1,2997::141848990
+1 RESI 
+2 DATE 1937
+2 PLAC Paterson; Haledon; Hawthorne; Propsect Park; Little Falls; Totowa; West Paterson, New Jersey, USA
+2 SOUR @S-215749839@
+3 _APID 1,2469::585068937
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1 Apr 1940
+2 PLAC Paterson, Passaic, New Jersey, USA
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955449
+1 EVEN 
+2 TYPE Departure
+2 PLAC New York, New York, United States
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 146
+3 _APID 1,1518::7090468
+1 EVEN 
+2 TYPE Arrival
+2 DATE 29 May 1932
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 146
+3 _APID 1,1518::7090468
+1 SEX M
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17493139
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Paterson, Passaic, New Jersey; Roll: 1381; Page: 10B; Enumeration District: 0087; Image: 940.0; FHL microfilm: 2341116
+3 _APID 1,6224::10734707
+1 RESI Relation to Head of House: Son
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17493139
+1 BURI 
+2 PLAC Fair Lawn, Bergen County, New Jersey, USA
+2 SOUR @S-220165078@
+3 _APID 1,60525::19483882
+1 RESI Marital Status: MarriedRelation to Head of House: BrotherInLaw
+2 DATE 1930
+2 PLAC Paterson, Passaic, New Jersey, USA
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Paterson, Passaic, New Jersey; Roll: 1381; Page: 10B; Enumeration District: 0087; Image: 940.0; FHL microfilm: 2341116
+3 _APID 1,6224::10734707
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12279778
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=36
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=25
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=27
+1 FAMC @F4@
+1 FAMS @F6@
+0 @P28@ INDI 
+1 BIRT GRONI:  Susan  Toan 10th May 1892 Female Hull Lisburn
+2 DATE 10 May 1892
+2 PLAC Ballynahinch Road, Lisburn
+2 SOUR @S-220165084@
+3 _APID 1,70667::11144541
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17099621
+1 NAME Susan /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::11144541
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17099621
+1 SEX F
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17099621
+1 RESI Relation to Head of House: Daughter
+2 DATE 2 April 1911
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165083@
+3 PAGE Class: RG14
+3 _APID 1,70564::17099621
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Court Ward, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::11144541
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=37
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=24
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=28
+1 FAMC @F4@
+1 FAMS @F35@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE 1832
+2 SOUR @S-220165084@
+3 _APID 1,70667::9795559
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054894
+1 DEAT 
+2 DATE 4 May 1907
+2 PLAC Ballintine, Lisburn, Co Antrim
+2 SOUR @S-220165071@
+3 _APID 1,70726::611249
+1 NAME Thomas /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::9795559
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054894
+2 SOUR @S-220165071@
+3 _APID 1,70726::611249
+2 SOUR @S-220165082@
+3 _APID 1,2572::951773
+1 SEX M
+1 RESI Relation to Head of House: Head
+2 DATE 31 March 1901
+2 PLAC Blaris, Down, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::9795559
+1 WILL Effects : Effects £311 5s.  Probate of the Will of Thomas Toan late of Ballintine County Down Farmer who died 4 May 1907 granted     at Belfast to Patrick Gardner Farmer and Robert Toan Labourer.
+2 DATE 14 June 1907
+2 PLAC Belfast
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=30
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=34
+1 FAMC @F41@
+1 FAMS @F11@
+0 @P30@ INDI 
+1 BIRT 
+2 DATE 1827
+2 SOUR @S-220165076@
+3 _APID 1,2534::3688309
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054895
+1 DEAT 
+2 DATE 29 Oct 1894
+2 PLAC Ballintine, Lisburn, Co Antrim
+2 SOUR @S-220165076@
+3 _APID 1,2534::3688309
+1 NAME Ann /Toan/
+2 SOUR @S-220165076@
+3 _APID 1,2534::3688309
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054895
+2 SOUR @S-220165082@
+3 _APID 1,2572::951772
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=29
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=33
+1 FAMC @F42@
+1 FAMS @F11@
+0 @P31@ INDI 
+1 BIRT 
+2 DATE 11th November 1889
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13079467
+2 SOUR @S-220165075@
+3 _APID 1,1219::1217457
+1 SEX M
+1 NAME Alfred /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::13079467
+2 SOUR @S-220165075@
+3 _APID 1,1219::1217457
+1 _MILT 
+2 DATE abt 1912
+2 SOUR @S-220165075@
+3 _APID 1,1219::1217457
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::13079467
+1 FAMC @F5@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE 12th June 1885
+2 PLAC Shankill, Antrim
+2 SOUR @S-220165084@
+3 _APID 1,70667::12914995
+2 SOUR @S-220165070@
+3 PAGE WO364; Piece: 2201
+3 _APID 1,1114::506702
+2 SOUR @S-220095123@
+3 _APID 1,2573::3929175
+1 NAME John James /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12914995
+2 SOUR @S-220165070@
+3 PAGE WO364; Piece: 2201
+3 _APID 1,1114::506702
+2 SOUR @S-220095123@
+3 _APID 1,2573::3929175
+1 SEX M
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12914995
+1 FAMC @F5@
+0 @P33@ INDI 
+1 BIRT 
+2 DATE 3rd September 1897
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12633162
+2 SOUR @S-220095123@
+3 _APID 1,2573::5321917
+1 NAME Jemima /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12633162
+2 SOUR @S-220095123@
+3 _APID 1,2573::5321917
+1 SEX F
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12633162
+1 FAMC @F5@
+0 @P34@ INDI 
+1 BIRT 
+2 DATE 20th December 1894
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12283706
+1 SEX F
+1 NAME Annie /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::12283706
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::12283706
+1 FAMC @F5@
+0 @P35@ INDI 
+1 BIRT 
+2 DATE 30 July 1887
+2 PLAC Ballymoney, Antrim, Northern Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::11150953
+1 SEX F
+1 NAME Elizabeth Cathrine /McClure/
+2 SOUR @S-220165084@
+3 _APID 1,70667::11150953
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Carrickfergus, Antrim, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::11150953
+1 FAMC @F5@
+0 @P36@ INDI 
+1 NAME Catherine /Walsh/
+2 SOUR @S-220091911@
+3 _APID 1,9841::28186774
+2 SOUR @S-219692415@
+3 _APID 1,9054::8165411
+2 SOUR @S-209175390@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04231 / 05
+3 _APID 1,61039::900903892
+1 BIRT 
+2 DATE 1841
+2 PLAC Ballina, Mayo, Ireland
+1 SEX F
+1 FAMS @F12@
+1 FAMS @F25@
+0 @P37@ INDI 
+1 DEAT 
+2 DATE June 1865
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219215524@
+3 _APID 1,8914::25543480
+1 NAME Alfred /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269787
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 23; GSU roll: 474673
+3 _APID 1,8978::16065924
+2 SOUR @S-220109061@
+3 _APID 1,2271::529331
+2 SOUR @S-220091911@
+3 _APID 1,9841::28186786
+2 SOUR @S-220091911@
+3 _APID 1,9841::119021345
+2 SOUR @S-220081377@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Collection: Registry of Shipping and Seamen: Index of Apprentices; Class: BT 150; Piece Number: 25
+3 _APID 1,60609::104070
+2 SOUR @S-219692415@
+3 _APID 1,9054::165411
+2 SOUR @S-220091911@
+3 _APID 1,9841::57584803
+2 SOUR @S-220109061@
+3 _APID 1,2271::529330
+2 SOUR @S-219215524@
+3 _APID 1,8914::25543480
+1 BIRT 
+2 DATE abt 1835
+2 PLAC Littlehampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269787
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 23; GSU roll: 474673
+3 _APID 1,8978::16065924
+2 SOUR @S-220109061@
+3 _APID 1,2271::529331
+2 SOUR @S-220081377@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Collection: Registry of Shipping and Seamen: Index of Apprentices; Class: BT 150; Piece Number: 25
+3 _APID 1,60609::104070
+2 SOUR @S-220109061@
+3 _APID 1,2271::529330
+1 BAPM 
+2 DATE 12 Apr 1835
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::119021345
+2 SOUR @S-220091911@
+3 _APID 1,9841::57584803
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 23; GSU roll: 474673
+3 _APID 1,8978::16065924
+1 SEX M
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269787
+1 FAMC @F21@
+1 FAMS @F12@
+0 @P38@ INDI 
+1 SEX F
+1 NAME Jane?
+1 FAMS @F20@
+0 @P39@ INDI 
+1 NAME Francis /McClure/
+1 SEX M
+1 FAMS @F20@
+0 @P40@ INDI 
+1 SEX M
+1 NAME Samuel /Yeates/
+1 FAMS @F35@
+0 @P41@ INDI 
+1 RESI 
+2 DATE 1937
+2 PLAC Paterson; Haledon; Hawthorne; Propsect Park; Little Falls; Totowa; West Paterson, New Jersey, USA
+2 SOUR @S-215749839@
+3 _APID 1,2469::585068938
+1 NAME Elizabeth /Toan/
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 132
+3 _APID 1,1518::4191875
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955450
+2 SOUR @S-215749839@
+3 _APID 1,2469::585068938
+1 BIRT 
+2 DATE abt 1902
+2 PLAC Northern Ireland
+2 SOUR @S-218945642@
+3 PAGE Class: BT26; Piece: 978; Item: 132
+3 _APID 1,1518::4191875
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955450
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1 Apr 1940
+2 PLAC Paterson, Passaic, New Jersey, USA
+2 SOUR @S-215749856@
+3 PAGE Year: 1940; Census Place: Paterson, Passaic, New Jersey; Roll: T627_2433; Page: 11B; Enumeration District: 26-121
+3 _APID 1,2442::130955450
+1 SEX F
+1 FAMS @F6@
+0 @P42@ INDI 
+1 NAME Francis George /Woods/
+1 SEX M
+1 BIRT 
+2 DATE 1890
+1 FAMS @F13@
+0 @P43@ INDI 
+1 SEX F
+1 NAME Mary /Addis/
+1 FAMS @F7@
+0 @P44@ INDI 
+1 SEX F
+1 NAME Elizabeth /Copeland/
+1 BIRT 
+2 DATE 1894
+1 FAMS @F8@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE 10 Oct 1920
+2 PLAC Belfast, Antrim, Northern Ireland
+2 SOUR @S-220165085@
+3 _APID 1,2573::7657068
+1 NAME Elizabeth /Toan/
+2 SOUR @S-220165085@
+3 _APID 1,2573::7657068
+1 SEX F
+1 SEX U
+1 FAMC @F8@
+0 @P46@ INDI 
+1 NAME Francis /Maguire/
+1 SEX F
+1 FAMS @F9@
+0 @P47@ INDI 
+1 SEX F
+1 NAME Mary /Porter/
+1 FAMS @F10@
+0 @P48@ INDI 
+1 NAME Robert /Toan/
+1 SEX M
+1 FAMS @F42@
+0 @P49@ INDI 
+1 BIRT 
+2 DATE 1863
+2 SOUR @S-220165084@
+3 _APID 1,70667::10063889
+1 DEAT 
+2 DATE 22 Jun 1930
+2 PLAC Northern Ireland
+2 SOUR @S-220165063@
+3 _APID 1,70726::694197
+1 NAME Robert /Toan/
+2 SOUR @S-220165084@
+3 _APID 1,70667::10063889
+2 SOUR @S-220165063@
+3 _APID 1,70726::694197
+1 SEX M
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Blaris, Down, Ireland
+2 SOUR @S-220165084@
+3 _APID 1,70667::10063889
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=58
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=74
+1 FAMC @F11@
+0 @P50@ INDI 
+1 NAME Thomas /Toan/
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054892
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=57
+1 FAMS @F41@
+0 @P51@ INDI 
+1 SEX M
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100869
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111946
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267595
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514333
+2 SOUR @S-219178650@
+3 _APID 1,9841::100829018
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399089
+1 NAME William Bradley /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269776
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 15; GSU roll: 474673
+3 _APID 1,8978::16065916
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687294
+2 SOUR @S-220091911@
+3 _APID 1,9841::119021344
+2 SOUR @S-219939983@
+3 _APID 1,8914::25549238
+2 SOUR @S-219883220@
+3 _APID 1,2271::448576
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100869
+2 SOUR @S-219845027@
+3 _APID 1,9852::24974268
+2 SOUR @S-220091911@
+3 _APID 1,9841::33126517
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471327
+2 SOUR @S-220091911@
+3 _APID 1,9841::96935297
+2 SOUR @S-220091911@
+3 _APID 1,9841::67275312
+2 SOUR @S-220091911@
+3 _APID 1,9841::50151290
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884431
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111946
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267595
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514333
+2 SOUR @S-219178650@
+3 _APID 1,9841::100829018
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399089
+1 BIRT 
+2 DATE 19 June 1796
+2 PLAC Bradwell, Essex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269776
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 15; GSU roll: 474673
+3 _APID 1,8978::16065916
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687294
+2 SOUR @S-219939983@
+3 _APID 1,8914::25549238
+2 SOUR @S-219883220@
+3 _APID 1,2271::448576
+1 DEAT 
+2 DATE July 1869
+2 PLAC Steyning, Sussex
+2 SOUR @S-219939983@
+3 _APID 1,8914::25549238
+1 RESI Relation to Head of House: Head
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687294
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 15; GSU roll: 474673
+3 _APID 1,8978::16065916
+1 RESI Relation to Head of House: Head
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269776
+1 RESI 
+2 PLAC Little Hampton, Sussex, England
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100869
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=51
+1 FAMC @F27@
+1 FAMS @F21@
+0 @P52@ INDI 
+1 BIRT 
+2 DATE 23 Mar 1798
+2 PLAC Portsmouth
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269777
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 16; GSU roll: 474673
+3 _APID 1,8978::16065917
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687295
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182278
+2 SOUR @S-220091911@
+3 _APID 1,9841::136093822
+2 SOUR @S-219215524@
+3 _APID 1,8914::25547315
+1 NAME Martha /Dicker/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269777
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 16; GSU roll: 474673
+3 _APID 1,8978::16065917
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687295
+2 SOUR @S-220091911@
+3 _APID 1,9841::119021343
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182278
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100870
+2 SOUR @S-219845027@
+3 _APID 1,9852::24974269
+2 SOUR @S-220091911@
+3 _APID 1,9841::33126518
+2 SOUR @S-220091911@
+3 _APID 1,9841::96935298
+2 SOUR @S-220091911@
+3 _APID 1,9841::67275311
+2 SOUR @S-220091911@
+3 _APID 1,9841::50151291
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111944
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267886
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514334
+2 SOUR @S-219178650@
+3 _APID 1,9841::100832728
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399091
+2 SOUR @S-220091911@
+3 _APID 1,9841::136093822
+2 SOUR @S-219215524@
+3 _APID 1,8914::25547315
+1 DEAT 
+2 DATE October 1876
+2 PLAC Steyning, Sussex
+2 SOUR @S-219215524@
+3 _APID 1,8914::25547315
+1 BAPM 
+2 DATE 18 May 1806
+2 PLAC Saint Marys,Portsea,Hampshire,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::136093822
+1 SEX F
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182278
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100870
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111944
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267886
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514334
+2 SOUR @S-219178650@
+3 _APID 1,9841::100832728
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399091
+1 RESI Relation to Head of House: Wife
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687295
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 16; GSU roll: 474673
+3 _APID 1,8978::16065917
+1 RESI Relation to Head of House: Wife
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269777
+1 RESI 
+2 PLAC Little Hampton, Sussex, England
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100870
+1 RESI Relation to Head of House: Head
+2 DATE 1871
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182278
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=52
+1 FAMC @F38@
+1 FAMS @F21@
+0 @P53@ INDI 
+1 BIRT 
+2 DATE 1828
+1 DEAT 
+2 DATE 30 Mar 1886
+2 PLAC Ballintine, Lisburn, Co Antrim
+1 NAME Henry /Toan/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=60
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=83
+1 FAMC @F41@
+1 FAMS @F14@
+0 @P54@ INDI 
+1 BIRT 
+2 DATE 7 Apr 1833
+1 NAME Elizabeth /Kain/
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=67
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=84
+1 FAMS @F14@
+0 @P55@ INDI 
+1 BIRT 
+2 DATE 3 May 1868
+2 PLAC Largymore, Lisburn, Co Antrim
+2 SOUR @S-220165060@
+3 _APID 1,2533::2846713
+2 SOUR @S-220165085@
+3 _APID 1,2573::1462260
+1 DEAT 
+2 DATE 6 Jun 1939
+2 PLAC Belfast Mental Hospital
+1 NAME Elizabeth /Toan/
+2 SOUR @S-220165060@
+3 _APID 1,2533::2846713
+2 SOUR @S-220165085@
+3 _APID 1,2573::1462260
+1 SEX F
+1 BAPM 
+2 PLAC Lisburn, Ant, Ireland
+2 SOUR @S-220165060@
+3 _APID 1,2533::2846713
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=66
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=85
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=7155c9a2-14ab-4533-98f5-3f738faeb675&tid=84811748&pid=55
+2 FORM jpg
+2 TITL Elizabeth Toan
+1 FAMC @F14@
+1 FAMS @F17@
+0 @P56@ INDI 
+1 BIRT 
+2 DATE 20 Dec 1859
+2 SOUR @S-220165076@
+3 _APID 1,2534::2495381
+1 DEAT 
+2 DATE 3 Feb 1883
+2 PLAC Largymore
+2 SOUR @S-220165076@
+3 _APID 1,2534::2495381
+1 NAME Alice Kain /Toan/
+2 SOUR @S-220165076@
+3 _APID 1,2534::2495381
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=65
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=86
+1 FAMC @F14@
+0 @P57@ INDI 
+1 BIRT 
+2 DATE 31 Oct 1857
+1 NAME Henry /Toan/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=63
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=87
+1 FAMC @F14@
+0 @P58@ INDI 
+1 BIRT 
+2 DATE 28 Mar 1865
+2 PLAC Lisburn, Ant, Ireland
+2 SOUR @S-220165076@
+3 _APID 1,2534::1754543
+2 SOUR @S-220165060@
+3 _APID 1,2533::2353496
+1 DEAT 
+2 DATE 12 Aug 1877
+2 PLAC Largymore, Lisburn, Co Antrim
+2 SOUR @S-220165076@
+3 _APID 1,2534::1754543
+1 NAME Margaret /Toan/
+2 SOUR @S-220165076@
+3 _APID 1,2534::1754543
+2 SOUR @S-220165060@
+3 _APID 1,2533::2353496
+1 SEX F
+1 BAPM 
+2 PLAC Lisburn, Ant, Ireland
+2 SOUR @S-220165060@
+3 _APID 1,2533::2353496
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=62
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=88
+1 FAMC @F14@
+0 @P59@ INDI 
+1 BIRT 
+2 DATE 20 Mar 1862
+1 NAME Sarah Jane /Toan/
+2 SOUR @S-220165082@
+3 _APID 1,2572::2379714
+1 SEX F
+1 MARR 
+2 DATE Jun 1886
+2 PLAC Ireland
+2 SOUR @S-220165082@
+3 _APID 1,2572::2379714
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=61
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=89
+1 FAMC @F14@
+1 FAMS @F15@
+0 @P60@ INDI 
+1 DEAT 
+2 DATE 22 Nov 1938
+2 PLAC Mineral County, West Virginia, USA
+2 SOUR @S-220165059@
+3 _APID 1,2568::2311436
+2 SOUR @S-220165058@
+3 PAGE Wills; Author: West Virginia. County Court (Mineral County); Probate Place: Mineral, West Virginia
+3 _APID 1,9087::324929
+1 PROB 
+2 DATE 28 Nov 1938
+2 PLAC Mineral, West Virginia, USA
+2 SOUR @S-220165058@
+3 PAGE Wills; Author: West Virginia. County Court (Mineral County); Probate Place: Mineral, West Virginia
+3 _APID 1,9087::324929
+1 NAME Charlotte /Toan/
+2 SOUR @S-220165059@
+3 _APID 1,2568::2311436
+2 SOUR @S-220165058@
+3 PAGE Wills; Author: West Virginia. County Court (Mineral County); Probate Place: Mineral, West Virginia
+3 _APID 1,9087::324929
+2 SOUR @S-220165060@
+3 _APID 1,2533::662205
+2 SOUR @S-220165082@
+3 _APID 1,2572::2803166
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620477
+2 SOUR @S-220165056@
+3 _APID 1,70667::10098757
+2 SOUR @S-220165085@
+3 _APID 1,2573::2709342
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054485
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612254
+1 BIRT 
+2 DATE 13 Jun 1876
+2 PLAC Largymore, Lisburn, Co Antrim
+2 SOUR @S-220165059@
+3 _APID 1,2568::2311436
+2 SOUR @S-220165060@
+3 _APID 1,2533::662205
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620477
+2 SOUR @S-220165056@
+3 _APID 1,70667::10098757
+2 SOUR @S-220165085@
+3 _APID 1,2573::2709342
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054485
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612254
+1 SEX F
+2 SOUR @S-220165059@
+3 _APID 1,2568::2311436
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620477
+2 SOUR @S-220165056@
+3 _APID 1,70667::10098757
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054485
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612254
+1 MARR 
+2 DATE Jun 1895
+2 PLAC Ireland
+2 SOUR @S-220165082@
+3 _APID 1,2572::2803166
+1 BAPM 
+2 PLAC Ireland
+2 SOUR @S-220165060@
+3 _APID 1,2533::662205
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620477
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054485
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612254
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1930
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612254
+1 BURI 
+2 PLAC United States
+2 SOUR @S-220165059@
+3 _APID 1,2568::2311436
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC New Creek, Mineral, West Virginia, USA
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054485
+1 RESI Relation to Head of House: Wife
+2 DATE 31 March 1901
+2 PLAC Ormeau, Down, Ireland
+2 SOUR @S-220165056@
+3 _APID 1,70667::10098757
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1920
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620477
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=64
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=90
+1 FAMC @F14@
+1 FAMS @F16@
+0 @P61@ INDI 
+1 BIRT 
+2 DATE Abt 1866
+1 DEAT 
+2 DATE 13 Mar 1929
+2 PLAC Royal Victoria Hospital, Belfast
+1 NAME James /Rea/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=68
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=98
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0d98ba72-9671-40ac-a9e4-a2bb195f77ec&tid=84811748&pid=61
+2 FORM jpg
+2 TITL James Rea aka John Garrett
+1 FAMC @F19@
+1 FAMS @F17@
+1 FAMS @F18@
+0 @P62@ INDI 
+1 BIRT 
+2 DATE 1900
+2 PLAC Walmer Street, Belfast
+1 DEAT 
+2 DATE 3 Jun 1912
+2 PLAC 83b Walmer Street, Belfast
+1 NAME Elizabeth /Garrett/
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=70
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=99
+1 FAMC @F17@
+0 @P63@ INDI 
+1 BIRT 
+2 DATE 3 Oct 1896
+2 PLAC Ballintine, Lisburn, Co Antrim
+1 DEAT 
+2 DATE 1973
+1 NAME James Henry /Garrett/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=69
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=100
+1 FAMC @F17@
+0 @P64@ INDI 
+1 BIRT 
+2 DATE 5 Jul 1902
+2 PLAC 70 Walmer Street, Belfast
+1 DEAT 
+2 DATE 3 Dec 1967
+2 PLAC Whiteabbey Hospital
+1 NAME Annie Maria /Garrett/
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=77330143&pid=71
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=101
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=268b3985-7fee-49ef-af76-f8602c6f5b61&tid=84811748&pid=64
+2 FORM jpg
+2 TITL Annie Marie Garrett
+1 FAMC @F17@
+0 @P65@ INDI 
+1 SEX M
+1 NAME Robert /Allister/
+2 SOUR @S-220165082@
+3 _APID 1,2572::2377557
+1 FAMS @F15@
+0 @P66@ INDI 
+1 BIRT 
+2 DATE abt 1875
+2 PLAC Ireland
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620476
+2 SOUR @S-220165056@
+3 _APID 1,70667::9757695
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::30394111
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612273
+1 NAME Robert /McBride/
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620476
+2 SOUR @S-220165056@
+3 _APID 1,70667::9757695
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::30394111
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612273
+2 SOUR @S-220165082@
+3 _APID 1,2572::2775498
+1 SEX M
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620476
+2 SOUR @S-220165056@
+3 _APID 1,70667::9757695
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::30394111
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612273
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1904
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::30394111
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612273
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1930
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612273
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1910
+2 PLAC New Creek, Mineral, West Virginia, USA
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::30394111
+1 RESI Relation to Head of House: Head
+2 DATE 31 March 1901
+2 PLAC Ormeau, Down, Ireland
+2 SOUR @S-220165056@
+3 _APID 1,70667::9757695
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620476
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1920
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620476
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=92
+1 FAMS @F16@
+0 @P67@ INDI 
+1 SEX M
+2 SOUR @S-220165056@
+3 _APID 1,70667::12405165
+1 BIRT 
+2 DATE abt 1896
+2 SOUR @S-220165056@
+3 _APID 1,70667::12405165
+1 NAME James /McBride/
+2 SOUR @S-220165056@
+3 _APID 1,70667::12405165
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Ormeau, Down, Ireland
+2 SOUR @S-220165056@
+3 _APID 1,70667::12405165
+1 FAMC @F16@
+0 @P68@ INDI 
+1 NAME Minie /McBride/
+2 SOUR @S-220165056@
+3 _APID 1,70667::11347608
+1 SEX F
+2 SOUR @S-220165056@
+3 _APID 1,70667::11347608
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Ormeau, Down, Ireland
+2 SOUR @S-220165056@
+3 _APID 1,70667::11347608
+1 FAMC @F16@
+0 @P69@ INDI 
+1 BIRT 
+2 DATE abt 1903
+2 PLAC Ireland
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620479
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054487
+1 NAME Elizabeth /Mcbride/
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620479
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054487
+1 SEX F
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620479
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054487
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620479
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054487
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC New Creek, Mineral, West Virginia, USA
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054487
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1920
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620479
+1 FAMC @F16@
+0 @P70@ INDI 
+1 BIRT 
+2 DATE abt 1907
+2 PLAC West Virginia
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620480
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054488
+1 SEX F
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620480
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054488
+1 NAME Mary /Mcbride/
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620480
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054488
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC New Creek, Mineral, West Virginia, USA
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054488
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1920
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620480
+1 FAMC @F16@
+0 @P71@ INDI 
+1 BIRT 
+2 DATE abt 1898
+2 PLAC Ireland
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620478
+2 SOUR @S-220165056@
+3 _APID 1,70667::11592713
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054486
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612244
+1 NAME Robert /Mcbride/
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620478
+2 SOUR @S-220165056@
+3 _APID 1,70667::11592713
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054486
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612244
+1 SEX M
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620478
+2 SOUR @S-220165056@
+3 _APID 1,70667::11592713
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054486
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612244
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620478
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054486
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612244
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1930
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165077@
+3 PAGE Year: 1930; Census Place: Keyser, Mineral, West Virginia; Roll: 2547; Page: 14B; Enumeration District: 0008; Image: 76.0; FHL microfilm: 2342281
+3 _APID 1,6224::100612244
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1910
+2 PLAC New Creek, Mineral, West Virginia, USA
+2 SOUR @S-220165055@
+3 PAGE Year: 1910; Census Place: New Creek, Mineral, West Virginia; Roll: T624_1690; Page: 25B; Enumeration District: 0065; FHL microfilm: 1375703
+3 _APID 1,7884::166054486
+1 RESI Relation to Head of House: Son
+2 DATE 31 March 1901
+2 PLAC Ormeau, Down, Ireland
+2 SOUR @S-220165056@
+3 _APID 1,70667::11592713
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1920
+2 PLAC Keyser, Mineral, West Virginia, USA
+2 SOUR @S-220165057@
+3 PAGE Year: 1920; Census Place: Keyser, Mineral, West Virginia; Roll: T625_1964; Page: 9B; Enumeration District: 87; Image: 327
+3 _APID 1,6061::37620478
+1 FAMC @F16@
+0 @P72@ INDI 
+1 NAME James /Rea/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=103
+1 FAMS @F19@
+0 @P73@ INDI 
+1 BIRT 
+2 DATE 1847
+1 DEAT 
+2 DATE 9 Jul 1908
+2 PLAC 51 Lisburn Road, Belfast (Belfast Workhouse)
+1 NAME Elizabeth
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=102
+1 FAMS @F19@
+0 @P74@ INDI 
+1 BIRT 
+2 DATE Abt 1865
+1 DEAT 
+2 DATE 15 Apr 1929
+2 PLAC Kilmore, Co Armagh
+1 NAME Mary Anne /Grew/
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=104
+1 FAMS @F18@
+0 @P75@ INDI 
+1 BIRT 
+2 DATE 11 Apr 1897
+2 PLAC Chapel Lane, Armagh
+1 NAME Margaret /Rea/
+1 SEX F
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=105
+1 FAMC @F18@
+0 @P76@ INDI 
+1 BIRT 
+2 DATE 9 Jan 1892
+2 PLAC Grange Blundel
+2 SOUR @S-220165076@
+3 _APID 1,2534::5053906
+1 DEAT 
+2 DATE 20 Mar 1910
+2 PLAC Grange Blundel, Armagh
+2 SOUR @S-220165076@
+3 _APID 1,2534::5053906
+1 NAME John /Rea/
+2 SOUR @S-220165076@
+3 _APID 1,2534::5053906
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=106
+1 FAMC @F18@
+0 @P77@ INDI 
+1 BIRT 
+2 DATE 19 Jul 1890
+2 PLAC Grange Blundel
+1 NAME James Patrick /Rea/
+1 SEX M
+1 SOUR @S-220165081@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=83861439&pid=107
+1 FAMC @F18@
+0 @P78@ INDI 
+1 SEX M
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054893
+1 NAME Robert /Toan/
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054893
+0 @P79@ INDI 
+1 SEX F
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 34; Page: 10; Line: 1; GSU roll: 474673
+3 _APID 1,8978::16065927
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111948
+1 NAME Elizabeth /Parish/
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 34; Page: 10; Line: 1; GSU roll: 474673
+3 _APID 1,8978::16065927
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111948
+1 BAPM 
+2 DATE 25 Aug 1839
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-219179469@
+3 _APID 1,9841::52111948
+1 BIRT 
+2 DATE abt 1839
+2 PLAC Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 34; Page: 10; Line: 1; GSU roll: 474673
+3 _APID 1,8978::16065927
+1 FAMC @F21@
+0 @P80@ INDI 
+1 SEX M
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182283
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541631
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::20042684
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::405372
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399087
+1 NAME James Horatio /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269785
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 25; GSU roll: 474673
+3 _APID 1,8978::16065926
+2 SOUR @S-220091911@
+3 _APID 1,9841::50151292
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884432
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835308
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::20042684
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::405372
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399087
+1 BIRT 
+2 DATE abt 1838
+2 PLAC Litt Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269785
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 25; GSU roll: 474673
+3 _APID 1,8978::16065926
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884432
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835308
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::20042684
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::405372
+1 RESI Relation to Head of House: Head
+2 DATE 1901
+2 PLAC Bromley, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835308
+1 RESI 
+2 PLAC Westminster, London, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884432
+1 BAPM 
+2 DATE 04 Feb 1838
+2 PLAC Little Hampton, Sussex, England
+2 SOUR @S-220091911@
+3 _APID 1,9841::50151292
+2 SOUR @S-219144245@
+3 _APID 1,9841::184399087
+1 BIRT 
+2 DATE abt 1841
+2 PLAC Littlehampton, Sussex, England
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182283
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541631
+1 NAME James H /Parish/
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182283
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541631
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 25; GSU roll: 474673
+3 _APID 1,8978::16065926
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269785
+1 RESI Relation to Head of House: Head
+2 DATE 1891
+2 PLAC Bromley St Leonard, London, England
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::20042684
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1881
+2 PLAC All Saints Poplar, London, England
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541631
+1 RESI Relation to Head of House: Son
+2 DATE 1871
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182283
+1 FAMC @F21@
+1 FAMS @F26@
+0 @P81@ INDI 
+1 DEAT 
+2 DATE April 1863
+2 PLAC Steyning, Sussex
+2 SOUR @S-219215524@
+3 _APID 1,8914::25545971
+1 NAME Isaac /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269784
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 24; GSU roll: 474673
+3 _APID 1,8978::16065925
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687298
+2 SOUR @S-220091911@
+3 _APID 1,9841::101256994
+2 SOUR @S-220091911@
+3 _APID 1,9841::67275313
+2 SOUR @S-219215524@
+3 _APID 1,8914::25545971
+1 BAPM 
+2 DATE 04 Sep 1836
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::101256994
+2 SOUR @S-220091911@
+3 _APID 1,9841::67275313
+1 BIRT 
+2 DATE abt 1837
+2 PLAC Litt Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269784
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 24; GSU roll: 474673
+3 _APID 1,8978::16065925
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687298
+1 RESI Relation to Head of House: Son
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687298
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 24; GSU roll: 474673
+3 _APID 1,8978::16065925
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269784
+1 SEX M
+1 FAMC @F21@
+0 @P82@ INDI 
+1 BIRT 
+2 DATE abt 1831
+2 PLAC Litt Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269782
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 21; GSU roll: 474673
+3 _APID 1,8978::16065922
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579042
+1 RESI Relation to Head of House: Head
+2 DATE 1861
+2 PLAC Deptford St Paul, Kent, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579042
+1 NAME John /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269782
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 21; GSU roll: 474673
+3 _APID 1,8978::16065922
+2 SOUR @S-220091911@
+3 _APID 1,9841::96935296
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579042
+1 BAPM 
+2 DATE 22 Aug 1830
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::96935296
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 21; GSU roll: 474673
+3 _APID 1,8978::16065922
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269782
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F23@
+0 @P83@ INDI 
+1 BIRT 
+2 DATE abt 1825
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269780
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 18; GSU roll: 474673
+3 _APID 1,8978::16065919
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687653
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269607
+2 SOUR @S-210802623@
+3 PAGE Class: RG10; Piece: 1089; Folio: 95; Page: 39; GSU roll: 827502
+3 _APID 1,7619::183896
+1 SEX F
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269607
+2 SOUR @S-210802623@
+3 PAGE Class: RG10; Piece: 1089; Folio: 95; Page: 39; GSU roll: 827502
+3 _APID 1,7619::183896
+1 NAME Ruth /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269780
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 18; GSU roll: 474673
+3 _APID 1,8978::16065919
+2 SOUR @S-220091911@
+3 _APID 1,9841::33126516
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471325
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687653
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269607
+2 SOUR @S-210802623@
+3 PAGE Class: RG10; Piece: 1089; Folio: 95; Page: 39; GSU roll: 827502
+3 _APID 1,7619::183896
+1 RESI Relation to Head of House: Wife
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687653
+1 RESI 
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471325
+1 BAPM 
+2 DATE 04 Apr 1825
+2 PLAC Milford, Hampshire, England
+2 SOUR @S-220091911@
+3 _APID 1,9841::33126516
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 18; GSU roll: 474673
+3 _APID 1,8978::16065919
+1 RESI Relation to Head of House: Daughter
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269780
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269607
+1 RESI Relationship: Lodger
+2 DATE 1871
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-210802623@
+3 PAGE Class: RG10; Piece: 1089; Folio: 95; Page: 39; GSU roll: 827502
+3 _APID 1,7619::183896
+1 FAMC @F21@
+1 FAMS @F31@
+0 @P84@ INDI 
+1 BIRT 
+2 DATE 7 April 1771
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SEX F
+1 NAME elizabeth /bradley/
+2 SOUR @S-219845027@
+3 _APID 1,9852::17090859
+2 SOUR @S-219845015@
+3 _APID 1,9850::123305
+1 DEAT 
+2 DATE 16 March 1823
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=84
+1 FAMC @F30@
+1 FAMS @F27@
+0 @P85@ INDI 
+1 BIRT 
+2 DATE abt 1748
+1 DEAT 
+2 DATE 12 April 1818
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 NAME james /Parish/
+2 SOUR @S-219845027@
+3 _APID 1,9852::17090858
+2 SOUR @S-219845015@
+3 _APID 1,9850::123304
+1 SEX M
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=85
+1 FAMS @F27@
+1 FAMS @F28@
+0 @P86@ INDI 
+1 SEX F
+2 SOUR @S-219179178@
+3 _APID 1,9852::15543658
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317062
+2 SOUR @S-219179132@
+3 PAGE Class: RG12; Piece: 326; Folio: 41; Page: 22; GSU roll: 6095436
+3 _APID 1,6598::7592883
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404111
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267597
+1 NAME Isabella /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269786
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687297
+2 SOUR @S-219179195@
+3 PAGE London Metropolitan Archives, Saint Paul, Deptford, Register of marriages, P75/PAU, Item 046
+3 _APID 1,1623::5104702
+2 SOUR @S-219179178@
+3 _APID 1,9852::15543658
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317062
+2 SOUR @S-219179132@
+3 PAGE Class: RG12; Piece: 326; Folio: 41; Page: 22; GSU roll: 6095436
+3 _APID 1,6598::7592883
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404111
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267597
+1 BIRT 
+2 DATE abt 1845
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269786
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687297
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317062
+2 SOUR @S-219179132@
+3 PAGE Class: RG12; Piece: 326; Folio: 41; Page: 22; GSU roll: 6095436
+3 _APID 1,6598::7592883
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404111
+1 RESI Relation to Head of House: Daughter
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687297
+1 RESI Relation to Head of House: Daughter
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269786
+1 BAPM 
+2 DATE 10 Oct 1841
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-219179058@
+3 _APID 1,9841::137267597
+1 RESI Relation to Head of House: Wife
+2 DATE 1871
+2 PLAC Poplar, London, England
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404111
+1 RESI Relation to Head of House: Visitor
+2 DATE 1891
+2 PLAC Bromley, London, England
+2 SOUR @S-219179132@
+3 PAGE Class: RG12; Piece: 326; Folio: 41; Page: 22; GSU roll: 6095436
+3 _APID 1,6598::7592883
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1881
+2 PLAC Limehouse, London, England
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317062
+1 FAMC @F21@
+1 FAMS @F32@
+0 @P87@ INDI 
+1 BIRT 
+2 DATE abt 1824
+2 PLAC Matford, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269778
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 17; GSU roll: 474673
+3 _APID 1,8978::16065918
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687296
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182280
+1 SEX F
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182280
+1 NAME Martha A /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269778
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 17; GSU roll: 474673
+3 _APID 1,8978::16065918
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687296
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182280
+1 RESI Relation to Head of House: Daughter
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 70; Page: 9; GSU roll: 542669
+3 _APID 1,8767::7687296
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 17; GSU roll: 474673
+3 _APID 1,8978::16065918
+1 RESI Relation to Head of House: Daughter
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269778
+1 RESI Relation to Head of House: Daughter
+2 DATE 1871
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219935279@
+3 PAGE Class: RG10; Piece: 1089; Folio: 78; Page: 5; GSU roll: 827502
+3 _APID 1,7619::182280
+1 FAMC @F21@
+0 @P88@ INDI 
+1 NAME Hiram /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269783
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 22; GSU roll: 474673
+3 _APID 1,8978::16065923
+2 SOUR @S-220086347@
+3 _APID 1,6897::1454702
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579047
+2 SOUR @S-220109061@
+3 _APID 1,2271::683012
+2 SOUR @S-219244472@
+3 _APID 1,9841::122650647
+2 SOUR @S-219244460@
+3 _APID 1,9841::138244787
+2 SOUR @S-219244388@
+3 PAGE London Metropolitan Archives, Saint Pancras Parish Church, Register of marriages, P90/PAN1, Item 129
+3 _APID 1,1623::2331393
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195463
+2 SOUR @S-219845027@
+3 _APID 1,9852::7783272
+1 BIRT 
+2 DATE abt 1833
+2 PLAC Litt Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269783
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 22; GSU roll: 474673
+3 _APID 1,8978::16065923
+2 SOUR @S-220086347@
+3 _APID 1,6897::1454702
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579047
+2 SOUR @S-220109061@
+3 _APID 1,2271::683012
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195463
+1 SEX M
+2 SOUR @S-219244472@
+3 _APID 1,9841::122650647
+2 SOUR @S-219244460@
+3 _APID 1,9841::138244787
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195463
+1 RESI Relation to Head of House: Visitor
+2 DATE 1861
+2 PLAC Deptford St Paul, Kent, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579047
+1 RESI Relation to Head of House: Crew
+2 DATE 1891
+2 PLAC Vessels, Monmouthshire, Wales
+2 SOUR @S-220086347@
+3 _APID 1,6897::1454702
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 22; GSU roll: 474673
+3 _APID 1,8978::16065923
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269783
+1 RESI Relation to Head of House: Head
+2 DATE 1901
+2 PLAC Shirley, Hampshire, England
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195463
+1 BAPM 
+2 DATE 03 Mar 1833
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-219244472@
+3 _APID 1,9841::122650647
+2 SOUR @S-219244460@
+3 _APID 1,9841::138244787
+1 FAMC @F21@
+1 FAMS @F24@
+0 @P89@ INDI 
+1 BIRT 
+2 DATE abt 1830
+2 PLAC Litt Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269781
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 20; GSU roll: 474673
+3 _APID 1,8978::16065921
+2 SOUR @S-219178714@
+3 _APID 1,8914::25544436
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820042
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304581
+1 RESI Relation to Head of House: Head
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304581
+1 NAME Eli /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269781
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 20; GSU roll: 474673
+3 _APID 1,8978::16065921
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514335
+2 SOUR @S-219178714@
+3 _APID 1,8914::25544436
+2 SOUR @S-219178650@
+3 _APID 1,9841::100832727
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820042
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304581
+1 RESI Relation to Head of House: Head
+2 DATE 1861
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820042
+1 SEX M
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514335
+2 SOUR @S-219178650@
+3 _APID 1,9841::100832727
+1 DEAT 
+2 DATE April 1880
+2 PLAC Portsea Island, Hampshire
+2 SOUR @S-219178714@
+3 _APID 1,8914::25544436
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 20; GSU roll: 474673
+3 _APID 1,8978::16065921
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269781
+1 BAPM 
+2 DATE 03 Aug 1828
+2 PLAC Little Hampton, Sussex, England
+2 SOUR @S-219178846@
+3 _APID 1,9841::132514335
+2 SOUR @S-219178650@
+3 _APID 1,9841::100832727
+1 FAMC @F21@
+1 FAMS @F22@
+0 @P90@ INDI 
+1 BAPM 
+2 DATE 14 Jan 1827
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::9087559
+1 NAME William Dieker /Parish/
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269779
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 19; GSU roll: 474673
+3 _APID 1,8978::16065920
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1093; Folio: 87; Page: 6; GSU roll: 827505
+3 _APID 1,7619::225818
+2 SOUR @S-220091911@
+3 _APID 1,9841::9087559
+1 BIRT 
+2 DATE abt 1828
+2 PLAC Little Hampton, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269779
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 19; GSU roll: 474673
+3 _APID 1,8978::16065920
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1093; Folio: 87; Page: 6; GSU roll: 827505
+3 _APID 1,7619::225818
+1 RESI Relation to Head of House: Pauper
+2 DATE 1871
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1093; Folio: 87; Page: 6; GSU roll: 827505
+3 _APID 1,7619::225818
+1 RESI 
+2 DATE 1841
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112489@
+3 PAGE Class: HO107; Piece: 1096; Book: 6; Civil Parish: New Shoreham; County: Sussex; Enumeration District: 5; Folio: 35; Page: 9; Line: 19; GSU roll: 474673
+3 _APID 1,8978::16065920
+1 RESI Relation to Head of House: Son
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112868@
+3 PAGE Class: HO107; Piece: 1647; Folio: 256; Page: 24; GSU roll: 193552
+3 _APID 1,8860::3269779
+1 SEX M
+1 FAMC @F21@
+0 @P91@ INDI 
+1 SEX F
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721102
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292094
+1 NAME Hester /Hellyer/
+2 SOUR @S-220091911@
+3 _APID 1,9841::136093820
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE3/3
+3 _APID 1,2243::4655098
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE5/2
+3 _APID 1,2243::4757018
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721102
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292094
+1 BIRT 
+2 DATE about 1770
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=91
+1 FAMS @F38@
+0 @P92@ INDI 
+1 SEX M
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721103
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292092
+1 NAME John /Dicker/
+2 SOUR @S-220091911@
+3 _APID 1,9841::136093821
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE3/3
+3 _APID 1,2243::1655098
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE5/2
+3 _APID 1,2243::1757018
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721103
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292092
+1 BIRT 
+2 DATE about 1770
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=92
+1 FAMS @F38@
+0 @P93@ INDI 
+1 BIRT 
+2 DATE 1847
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687654
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269608
+1 SEX F
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269608
+1 NAME Eliza /English/
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687654
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269608
+1 RESI Relation to Head of House: Daughter
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687654
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269608
+1 FAMC @F31@
+0 @P94@ INDI 
+1 BIRT 
+2 DATE 1826
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687652
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269606
+1 SEX M
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269606
+1 NAME Thomas /English/
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471328
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687652
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269606
+2 SOUR @S-210802610@
+3 _APID 1,8913::9136491
+1 RESI Relation to Head of House: Head
+2 DATE 1861
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 603; Folio: 77; Page: 23; GSU roll: 542669
+3 _APID 1,8767::7687652
+1 RESI 
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471328
+1 RESI Relationship: Lodger
+2 DATE 1851
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-210802684@
+3 PAGE Class: HO107; Piece: 1647; Folio: 250; Page: 13; GSU roll: 193552
+3 _APID 1,8860::3269606
+1 FAMS @F31@
+0 @P95@ INDI 
+1 BIRT 
+2 DATE October 1866
+2 PLAC Portsea Island, Hampshire
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528008
+2 SOUR @S-219072751@
+3 _APID 1,8912::26302968
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612367
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304586
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274454
+1 SEX F
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274454
+1 NAME Isabella /Parish/
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528008
+2 SOUR @S-219072751@
+3 _APID 1,8912::26302968
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612367
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304586
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274454
+1 RESI Relation to Head of House: Daughter
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304586
+1 RESI Relation to Head of House: Wife
+2 DATE 1901
+2 PLAC Hackney, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612367
+1 RESI Relation to Head of House: Daughter
+2 DATE 1881
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528008
+1 RESI Relation to Head of House: Wife
+2 DATE 1891
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274454
+1 FAMC @F22@
+1 FAMS @F34@
+0 @P96@ INDI 
+1 BIRT 
+2 DATE abt 1865
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304585
+2 SOUR @S-219072751@
+3 _APID 1,8912::26302909
+2 SOUR @S-219215524@
+3 _APID 1,8914::25545957
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1151; Folio: 69; Page: 25; GSU roll: 1341282
+3 _APID 1,7572::6593257
+2 SOUR @S-218946651@
+3 _APID 1,9739::36548
+1 _MILT 
+2 DATE 29 May 1884
+2 SOUR @S-218946651@
+3 _APID 1,9739::36548
+1 NAME Horatio /Parish/
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304585
+2 SOUR @S-219072751@
+3 _APID 1,8912::26302909
+2 SOUR @S-219215524@
+3 _APID 1,8914::25545957
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1151; Folio: 69; Page: 25; GSU roll: 1341282
+3 _APID 1,7572::6593257
+2 SOUR @S-218946651@
+3 _APID 1,9739::36548
+1 RESI 
+2 DATE 1881
+2 PLAC Vessels, Hampshire, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1151; Folio: 69; Page: 25; GSU roll: 1341282
+3 _APID 1,7572::6593257
+1 DEAT 
+2 DATE January 1886
+2 PLAC Portsea Island, Hampshire
+2 SOUR @S-219215524@
+3 _APID 1,8914::25545957
+1 RESI Relation to Head of House: Son
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304585
+1 SEX M
+1 FAMC @F22@
+0 @P97@ INDI 
+1 BIRT 
+2 DATE April 1863
+2 PLAC Portsea Island, Hampshire
+2 SOUR @S-219072751@
+3 _APID 1,8912::26300276
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528078
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304584
+1 RESI Relation to Head of House: Daughter
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304584
+1 NAME Elizabeth /Parish/
+2 SOUR @S-219072751@
+3 _APID 1,8912::26300276
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528078
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304584
+1 RESI Relation to Head of House: Daughter
+2 DATE 1881
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528078
+1 SEX F
+1 FAMC @F22@
+0 @P98@ INDI 
+1 BIRT 
+2 DATE October 1857
+2 PLAC Shoreham, Sussex, England, United Kingdom
+2 SOUR @S-219143656@
+3 _APID 1,8912::26298094
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444843
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820045
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304583
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983579
+2 SOUR @S-210827876@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Royal Navy Registers of Seamen's Services; Class: ADM 188; Piece: 79
+3 _APID 1,60522::595040
+1 SEX M
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983579
+2 SOUR @S-210827876@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Royal Navy Registers of Seamen's Services; Class: ADM 188; Piece: 79
+3 _APID 1,60522::595040
+1 NAME Alfred /Parish/
+2 SOUR @S-219143656@
+3 _APID 1,8912::26298094
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274938
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444843
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820045
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304583
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983579
+2 SOUR @S-210827876@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Royal Navy Registers of Seamen's Services; Class: ADM 188; Piece: 79
+3 _APID 1,60522::595040
+1 RESI Relation to Head of House: Son
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304583
+1 RESI Relation to Head of House: Son
+2 DATE 1861
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820045
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 02 Apr 1911
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444843
+1 BIRT 
+2 DATE abt 1857
+2 PLAC Shoreham, Sussex, England
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274938
+1 RESI Relation to Head of House: Son
+2 DATE 1891
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274938
+1 _MILT 
+2 DATE 13 Nov 1877
+2 SOUR @S-210827876@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Royal Navy Registers of Seamen's Services; Class: ADM 188; Piece: 79
+3 _APID 1,60522::595040
+1 _MILT 
+2 DATE 28 Jan 1874
+2 SOUR @S-210827876@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Royal Navy Registers of Seamen's Services; Class: ADM 188; Piece: 79
+3 _APID 1,60522::595040
+1 RESI Relation to Head: Head
+2 DATE 1901
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983579
+1 FAMC @F22@
+1 FAMS @F33@
+0 @P99@ INDI 
+1 BIRT 
+2 DATE July 1859
+2 PLAC Portsea Island, Hampshire
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820046
+2 SOUR @S-219072751@
+3 _APID 1,8912::26304783
+1 SEX F
+1 NAME Martha Mary /Parish/
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820046
+2 SOUR @S-219072751@
+3 _APID 1,8912::26304783
+1 RESI Relation to Head of House: Daughter
+2 DATE 1861
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820046
+1 FAMC @F22@
+0 @P100@ INDI 
+1 BIRT 
+2 DATE January 1856
+2 PLAC Southampton, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820044
+2 SOUR @S-219072751@
+3 _APID 1,8912::26299081
+1 NAME Caroline Maria /Parish/
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820044
+2 SOUR @S-219072751@
+3 _APID 1,8912::26299081
+1 RESI Relation to Head of House: Daughter
+2 DATE 1861
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820044
+1 SEX F
+1 FAMC @F22@
+0 @P101@ INDI 
+1 BIRT 
+2 DATE abt 1828
+2 PLAC Brighton, Sussex, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528105
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274700
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820043
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304582
+1 RESI Relation to Head of House: Wife
+2 DATE 1871
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304582
+1 NAME Maria /Parish/
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528105
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274700
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820043
+2 SOUR @S-219311457@
+3 PAGE Class: RG10; Piece: 1139; Folio: 13; Page: 19; GSU roll: 827784
+3 _APID 1,7619::27304582
+1 RESI Relation to Head of House: Wife
+2 DATE 1861
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 632; Folio: 95; Page: 34; GSU roll: 542674
+3 _APID 1,8767::7820043
+1 RESI Relation to Head of House: Head
+2 DATE 1891
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219070000@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 15; GSU roll: 6095963
+3 _APID 1,6598::17274700
+1 RESI Marital Status: WidowRelation to Head of House: Head
+2 DATE 1881
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1139; Folio: 57; Page: 29; GSU roll: 1341278
+3 _APID 1,7572::6528105
+1 SEX F
+1 FAMS @F22@
+0 @P102@ INDI 
+1 BIRT 
+2 DATE 1833
+2 PLAC Devonport, Devon, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579043
+1 SEX F
+1 NAME Elizabeth /Spure/
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579043
+1 RESI Relation to Head of House: Wife
+2 DATE 1861
+2 PLAC Deptford St Paul, Kent, England
+2 SOUR @S-220112013@
+3 PAGE Class: RG 9; Piece: 396; Folio: 92; Page: 36; GSU roll: 542630
+3 _APID 1,8767::6579043
+1 FAMS @F23@
+0 @P103@ INDI 
+1 BIRT 
+2 DATE abt 1845
+2 PLAC Wells, Somerset, England
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195464
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1206; Folio: 63; Page: 20; GSU roll: 1341295
+3 _APID 1,7572::6848932
+1 RESI Marital Status: MarriedRelation to Head of House: Lodger
+2 DATE 1881
+2 PLAC Southampton St Mary, Hampshire, England
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1206; Folio: 63; Page: 20; GSU roll: 1341295
+3 _APID 1,7572::6848932
+1 NAME Frances Jane /Foster/
+2 SOUR @S-219244388@
+3 PAGE London Metropolitan Archives, Saint Pancras Parish Church, Register of marriages, P90/PAN1, Item 129
+3 _APID 1,1623::5825218
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195464
+2 SOUR @S-219845027@
+3 _APID 1,9852::7783271
+2 SOUR @S-219215563@
+3 PAGE Class: RG11; Piece: 1206; Folio: 63; Page: 20; GSU roll: 1341295
+3 _APID 1,7572::6848932
+1 SEX F
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195464
+1 RESI Relation to Head of House: Wife
+2 DATE 1901
+2 PLAC Shirley, Hampshire, England
+2 SOUR @S-219244364@
+3 PAGE Class: RG13; Piece: 1074; Folio: 90; Page: 28
+3 _APID 1,7814::1195464
+1 FAMS @F24@
+0 @P104@ INDI 
+1 BIRT 
+2 DATE abt 1842
+2 PLAC Lee, Kent, England
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317073
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404110
+1 SEX M
+2 SOUR @S-219179178@
+3 _APID 1,9852::15543851
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317073
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404110
+1 NAME John James /Carpenter/
+2 SOUR @S-219179195@
+3 PAGE London Metropolitan Archives, Saint Paul, Deptford, Register of marriages, P75/PAU, Item 046
+3 _APID 1,1623::1764045
+2 SOUR @S-219179178@
+3 _APID 1,9852::15543851
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317073
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404110
+1 RESI Relation to Head of House: Head
+2 DATE 1871
+2 PLAC Poplar, London, England
+2 SOUR @S-219179066@
+3 PAGE Class: RG10; Piece: 583; Folio: 20; Page: 33; GSU roll: 824896
+3 _APID 1,7619::12404110
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1881
+2 PLAC Limehouse, London, England
+2 SOUR @S-219179154@
+3 PAGE Class: RG11; Piece: 470; Folio: 128; Page: 1; GSU roll: 1341103
+3 _APID 1,7572::15317073
+1 FAMS @F32@
+0 @P105@ INDI 
+1 NAME John /Blaney/
+2 SOUR @S-209175390@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04231 / 05
+3 _APID 1,61039::903892
+1 SEX M
+1 BIRT 
+2 DATE 1838
+2 PLAC Ardglass, Down, Northern Ireland, United Kingdom
+1 FAMS @F25@
+0 @P106@ INDI 
+1 BIRT 
+2 DATE 1870
+2 PLAC Belfast, Antrim, Northern Ireland, United Kingdom
+1 NAME Annie Lizzie /Blaney/
+1 SEX F
+1 FAMC @F25@
+0 @P107@ INDI 
+1 BIRT 
+2 DATE 1867
+2 PLAC Galway, Ireland
+1 SEX F
+1 NAME Mary Jane /Blaney/
+1 FAMC @F25@
+0 @P108@ INDI 
+1 BIRT 
+2 DATE 1883
+2 PLAC Poplar, London, England, United Kingdom
+2 SOUR @S-219179522@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590196
+1 SEX F
+2 SOUR @S-219179522@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590196
+1 NAME Lettie Marie /Brown/
+2 SOUR @S-219179522@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590196
+1 RESI Relation to Head of House: Adopted Daughter
+2 DATE 1891
+2 PLAC Bromley St Leonard, London, England
+2 SOUR @S-219179522@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590196
+1 FAMC @F26@
+0 @P109@ INDI 
+1 BIRT 
+2 DATE abt 1845
+2 PLAC Totteridge, Hertfordshire, England
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541606
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884429
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835309
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590195
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::1730274
+1 SEX F
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541606
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590195
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::1730274
+1 NAME Maria /Combes/
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541606
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884429
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835309
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590195
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::1730274
+1 RESI Relation to Head of House: Wife
+2 DATE 1901
+2 PLAC Bromley, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 347; Folio: 83; Page: 35
+3 _APID 1,7814::2835309
+1 RESI 
+2 PLAC Westminster, London, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884429
+1 RESI Relation to Head of House: Wife
+2 DATE 1891
+2 PLAC Bromley St Leonard, London, England
+2 SOUR @S-219179833@
+3 PAGE Class: RG12; Piece: 326; Folio: 14; Page: 21; GSU roll: 6095436
+3 _APID 1,6598::7590195
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1881
+2 PLAC All Saints Poplar, London, England
+2 SOUR @S-219341784@
+3 PAGE Class: RG11; Piece: 507; Folio: 48; Page: 92; GSU roll: 1341113
+3 _APID 1,7572::15541606
+1 FAMS @F26@
+0 @P110@ INDI 
+1 BIRT 
+2 DATE about 1802
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 DEAT 
+2 DATE 5 July 1802
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SEX F
+1 NAME Sarah /Parish/
+1 FAMC @F27@
+0 @P111@ INDI 
+1 BIRT 
+2 DATE 17 July 1802
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SEX F
+1 SEX U
+1 NAME Elizabeth /Parish/
+1 FAMC @F27@
+0 @P112@ INDI 
+1 BIRT 
+2 DATE 23 Nov 1800
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SEX F
+1 NAME Elizabeth /Parish/
+1 FAMC @F27@
+0 @P113@ INDI 
+1 BIRT 
+2 DATE About 1784
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 DEAT 
+2 DATE 3 March 1784
+1 SEX U
+1 NAME Infant /Parish/
+1 FAMC @F28@
+0 @P114@ INDI 
+1 BIRT 
+2 DATE 30 Jun 1783
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 NAME John /Parish/
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F29@
+0 @P115@ INDI 
+1 DEAT 
+2 DATE Jun 6 1790
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 SEX F
+1 NAME Susannah Barnard
+1 FAMS @F28@
+0 @P116@ INDI 
+1 BIRT 
+2 DATE 10 Jun 1810
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+1 SEX F
+1 NAME hannah /Parish/
+2 SOUR @S-220091911@
+3 _APID 1,9841::131491597
+1 BAPM 
+2 DATE 10 Jun 1810
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::131491597
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=116
+1 FAMC @F27@
+0 @P117@ INDI 
+1 BIRT 
+2 DATE 08 Jun 1806
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+1 SEX F
+1 NAME sarah /Parish/
+2 SOUR @S-220091911@
+3 _APID 1,9841::131404079
+2 SOUR @S-220091911@
+3 _APID 1,9841::58494993
+1 BAPM 
+2 DATE 08 Jun 1806
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::131404079
+2 SOUR @S-220091911@
+3 _APID 1,9841::58494993
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=117
+1 FAMC @F27@
+0 @P118@ INDI 
+1 BIRT 
+2 DATE 05 Jun 1794
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+1 BAPM 
+2 DATE 05 Jun 1794
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+2 SOUR @S-220091911@
+3 _APID 1,9841::85994452
+1 NAME mary /Parish/
+2 SOUR @S-220091911@
+3 _APID 1,9841::85994452
+1 SEX F
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=118
+1 FAMC @F27@
+0 @P119@ INDI 
+1 NAME Samuel /Bradley/
+2 SOUR @S-219478820@
+3 _APID 1,9852::36480717
+2 SOUR @S-219478798@
+3 _APID 1,9850::688645
+1 SEX M
+2 SOUR @S-219478820@
+3 _APID 1,9852::36480717
+2 SOUR @S-219478798@
+3 _APID 1,9850::688645
+1 BIRT 
+2 DATE About 1750
+1 FAMS @F30@
+0 @P120@ INDI 
+1 SEX F
+2 SOUR @S-219478820@
+3 _APID 1,9852::36480719
+2 SOUR @S-219478798@
+3 _APID 1,9850::688647
+1 NAME Mary /Argent/
+2 SOUR @S-219478820@
+3 _APID 1,9852::36480719
+2 SOUR @S-219478798@
+3 _APID 1,9850::688647
+1 BIRT 
+2 DATE About 1750
+1 FAMS @F30@
+0 @P121@ INDI 
+1 SEX F
+1 NAME Mary
+1 FAMS @F29@
+0 @P122@ INDI 
+1 BIRT 
+2 DATE 9 May 1802
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 NAME John /Parish/
+1 SEX M
+1 FAMC @F29@
+0 @P123@ INDI 
+1 BIRT 
+2 DATE abt 1885
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983581
+1 SEX F
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983581
+1 NAME Mabel E /Parish/
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983581
+1 RESI Relation to Head: Daughter
+2 DATE 1901
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983581
+1 FAMC @F33@
+0 @P124@ INDI 
+1 BIRT 
+2 DATE abt 1867
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444844
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983580
+1 SEX F
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983580
+1 NAME Eliza /Parrish/
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444844
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983580
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 02 Apr 1911
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444844
+1 RESI Relation to Head: Wife
+2 DATE 1901
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S-210827886@
+3 PAGE Class: RG13; Piece: 996; Folio: 69; Page: 12
+3 _APID 1,7814::33983580
+1 FAMS @F33@
+0 @P125@ INDI 
+1 BIRT 
+2 DATE abt 1870
+2 PLAC Newington, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612366
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335693
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370267
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17273994
+1 SEX M
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335693
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370267
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17273994
+1 NAME George A /Cornish/
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612366
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335693
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370267
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17273994
+1 RESI Relation to Head of House: Head
+2 DATE 1901
+2 PLAC Hackney, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612366
+1 RESI Relation to Head of House: Head
+2 DATE 1891
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17273994
+1 RESI Relationship to Head: Son
+2 DATE 1881
+2 PLAC Newington, London, England
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370267
+1 RESI Relationship: Son
+2 DATE 1871
+2 PLAC St Mary Newington, London, England
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335693
+1 FAMC @F39@
+1 FAMS @F34@
+0 @P126@ INDI 
+1 BIRT 
+2 DATE abt 1899
+2 PLAC Newington, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612370
+1 RESI Relation to Head of House: Daughter
+2 DATE 1901
+2 PLAC Hackney, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612370
+1 NAME Isabella /Cornish/
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612370
+1 SEX F
+1 FAMC @F34@
+0 @P127@ INDI 
+1 BIRT 
+2 DATE abt 1897
+2 PLAC Newington, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612369
+1 RESI Relation to Head of House: Son
+2 DATE 1901
+2 PLAC Hackney, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612369
+1 NAME Sea A /Cornish/
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612369
+1 SEX M
+1 FAMC @F34@
+0 @P128@ INDI 
+1 BIRT 
+2 DATE abt 1891
+2 PLAC Landport, Hampshire, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612368
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274703
+2 SOUR @S-210802561@
+3 _APID 1,8912::39545570
+1 NAME Daisy /Cornish/
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612368
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274703
+2 SOUR @S-210802561@
+3 _APID 1,8912::39545570
+1 SEX F
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274703
+1 RESI Relation to Head of House: Daughter
+2 DATE 1901
+2 PLAC Hackney, London, England
+2 SOUR @S-219182115@
+3 PAGE Class: RG13; Piece: 210; Folio: 50; Page: 17
+3 _APID 1,7814::2612368
+1 RESI Relation to Head of House: Daughter
+2 DATE 1891
+2 PLAC Portsea, Hampshire, England
+2 SOUR @S-210802593@
+3 PAGE Class: RG12; Piece: 853; Folio: 73; Page: 16; GSU roll: 6095963
+3 _APID 1,6598::17274703
+1 FAMC @F34@
+0 @P129@ INDI 
+1 BIRT 
+2 DATE abt 1828
+2 PLAC Leeds, Yorkshire, England
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335686
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370265
+1 SEX M
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335686
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370265
+1 NAME William R /Cornish/
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335686
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370265
+1 RESI Marital Status: MarriedRelationship to Head: Head
+2 DATE 1881
+2 PLAC Newington, London, England
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370265
+1 RESI Relationship: Head
+2 DATE 1871
+2 PLAC St Mary Newington, London, England
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335686
+1 FAMS @F39@
+0 @P130@ INDI 
+1 BIRT 
+2 DATE abt 1837
+2 PLAC Limehouse, Middlesex, England
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335687
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370234
+1 SEX F
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335687
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370234
+1 NAME Mary Ann /Cornish/
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335687
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370234
+1 RESI Marital Status: MarriedRelationship to Head: Wife
+2 DATE 1881
+2 PLAC Newington, London, England
+2 SOUR @S-210802643@
+3 PAGE Class: RG11; Piece: 534; Folio: 58; Page: 10; GSU roll: 1341121
+3 _APID 1,7572::20370234
+1 RESI Relationship: Wife
+2 DATE 1871
+2 PLAC St Mary Newington, London, England
+2 SOUR @S-210802656@
+3 PAGE Class: RG10; Piece: 611; Folio: 54; Page: 5; GSU roll: 818912
+3 _APID 1,7619::5335687
+1 FAMS @F39@
+0 @P131@ INDI 
+1 BIRT 
+2 DATE 22 APR 1806
+2 PLAC Saint Marys, Portsea, Hampshire, England
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721104
+1 SEX F
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721104
+1 NAME Joanna /Dicker/
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721104
+1 BAPM 
+2 DATE 18 May 1806
+2 PLAC Saint Marys,Portsea,Hampshire,England
+2 SOUR @S-210827907@
+3 _APID 1,9841::15721104
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=131
+1 FAMC @F38@
+0 @P132@ INDI 
+1 BIRT 
+2 DATE 21 FEB 1803
+2 PLAC Saint Marys, Portsea, Hampshire, England
+1 NAME Jane /Dicker/
+1 SEX F
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=132
+1 FAMC @F38@
+0 @P133@ INDI 
+1 BIRT 
+2 DATE 14 SEP 1796
+2 PLAC St Marys, Portsea, Hampshire
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292093
+1 SEX F
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292093
+1 NAME Eliza /Dicker/
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292093
+1 DEAT 
+2 DATE 1871-06-18
+2 PLAC Littlehampton. Sussex
+1 BAPM 
+2 DATE 18 May 1806
+2 PLAC Saint Marys,Portsea,Hampshire,England
+2 SOUR @S-210827903@
+3 _APID 1,9841::188292093
+1 SOUR @S-219845044@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=84811748&pid=133
+1 FAMC @F38@
+0 @F1@ FAM 
+1 HUSB @P3@
+1 WIFE @P4@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P5@
+1 WIFE @P6@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR GRONI: Thomas Toan Matilda McClure 11th July 1922  Belfast
+2 DATE 11th July 1922
+2 PLAC Belfast
+0 @F3@ FAM 
+1 HUSB @P9@
+1 WIFE @P17@
+1 MARR 
+2 DATE 1947
+2 PLAC Liverpool North, Lancashire, England
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=image&guid=9658d818-21be-47c3-99e1-032a0daa0c88&tid=84811748&pid=9
+3 FORM jpg
+3 TITL BMD-M-1947-4-AZ-001457
+0 @F4@ FAM 
+1 HUSB @P14@
+1 WIFE @P13@
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P21@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 5 Sep 1885
+2 PLAC Lisburn Cathedral
+0 @F5@ FAM 
+1 HUSB @P15@
+1 WIFE @P16@
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P27@
+1 WIFE @P41@
+0 @F7@ FAM 
+1 HUSB @P25@
+1 WIFE @P43@
+1 MARR 
+2 DATE 27 March 1937
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F8@ FAM 
+1 HUSB @P23@
+1 WIFE @P44@
+1 CHIL @P45@
+2 _FREL Unknown
+2 _MREL Unknown
+1 MARR 
+2 DATE 10 July 1919
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F9@ FAM 
+1 HUSB @P22@
+1 WIFE @P46@
+1 MARR 
+2 DATE 10 September 1923
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F10@ FAM 
+1 HUSB @P21@
+1 WIFE @P47@
+1 MARR 
+2 DATE 18  June 1924
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F11@ FAM 
+1 HUSB @P29@
+1 WIFE @P30@
+1 CHIL @P49@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 Apr 1854
+2 PLAC Lisburn Cathedral
+2 SOUR @S-220165072@
+3 _APID 1,9904::1054894
+2 SOUR @S-220165082@
+3 _APID 1,2572::951773
+0 @F12@ FAM 
+1 HUSB @P37@
+1 WIFE @P36@
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 9 May 1860
+2 PLAC Ardnaree, Mayo, Ireland
+2 SOUR @S-219692415@
+3 _APID 1,9054::165411
+0 @F13@ FAM 
+1 HUSB @P42@
+1 WIFE @P26@
+1 MARR 
+2 DATE 17th February 1918
+2 PLAC Belfast, Ireland
+0 @F14@ FAM 
+1 HUSB @P53@
+1 WIFE @P54@
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P60@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 11 Jan 1857
+2 PLAC Lisburn Cathedral
+0 @F15@ FAM 
+1 HUSB @P65@
+1 WIFE @P59@
+0 @F16@ FAM 
+1 HUSB @P66@
+1 WIFE @P60@
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P70@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 21 Jun 1895
+2 PLAC Lisburn Cathedral
+0 @F17@ FAM 
+1 HUSB @P61@
+1 WIFE @P55@
+1 CHIL @P63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM 
+1 HUSB @P61@
+1 WIFE @P74@
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 14 Apr 1890
+2 PLAC Roman Catholic Chapel Of Armagh
+0 @F19@ FAM 
+1 HUSB @P72@
+1 WIFE @P73@
+1 CHIL @P61@
+2 _FREL Natural
+2 _MREL Natural
+0 @F20@ FAM 
+1 HUSB @P39@
+1 WIFE @P38@
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM 
+1 HUSB @P51@
+1 WIFE @P52@
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P83@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P86@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 13 Dec 1821
+2 PLAC Saint Mary,Littlehampton,Sussex,England
+2 SOUR @S-219883139@
+3 _APID 1,9852::32100869
+2 SOUR @S-219845027@
+3 _APID 1,9852::24974268
+0 @F22@ FAM 
+1 HUSB @P89@
+1 WIFE @P101@
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P96@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P95@
+2 _FREL Natural
+2 _MREL Natural
+0 @F23@ FAM 
+1 HUSB @P82@
+1 WIFE @P102@
+0 @F24@ FAM 
+1 HUSB @P88@
+1 WIFE @P103@
+1 MARR 
+2 DATE 25 Jan 1862
+2 PLAC Parish Chapel, St Pancras, England
+2 SOUR @S-219244388@
+3 PAGE London Metropolitan Archives, Saint Pancras Parish Church, Register of marriages, P90/PAN1, Item 129
+3 _APID 1,1623::2331393
+2 SOUR @S-219845027@
+3 _APID 1,9852::7783272
+0 @F25@ FAM 
+1 HUSB @P105@
+1 WIFE @P36@
+1 CHIL @P107@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Mar 1866
+2 PLAC Kilmoremoy, Mayo and Sligo, Ireland
+2 SOUR @S-209175390@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04231 / 05
+3 _APID 1,61039::903892
+0 @F26@ FAM 
+1 HUSB @P80@
+1 WIFE @P109@
+1 CHIL @P108@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 14 Jul 1877
+2 PLAC Saint Anne Soho, Westminster, London, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::25884432
+2 SOUR @S-219144380@
+3 PAGE Place: Westminster, London, England; Collection: Soho, St Anne; -; Date Range: 1876 - 1879; Film Number: 1468920
+3 _APID 1,1352::405372
+0 @F27@ FAM 
+1 HUSB @P85@
+1 WIFE @P84@
+1 CHIL @P118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P117@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P116@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 28 Oct 1793
+2 PLAC Bradwell on sea, Essex, England, United Kingdom
+2 SOUR @S-219845027@
+3 _APID 1,9852::17090858
+2 SOUR @S-219845015@
+3 _APID 1,9850::123304
+0 @F28@ FAM 
+1 HUSB @P85@
+1 WIFE @P115@
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P113@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 22 Dec 1782
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+0 @F29@ FAM 
+1 HUSB @P114@
+1 WIFE @P121@
+1 CHIL @P122@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM 
+1 HUSB @P119@
+1 WIFE @P120@
+1 CHIL @P84@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR Seax parish registers
+2 DATE 4 June 1775
+2 PLAC Bradwell Juxta Mare, Essex, England, United Kingdom
+1 MARR 
+2 DATE 04 Jun 1770
+2 PLAC Essex, England
+2 SOUR @S-219478798@
+3 _APID 1,9850::688645
+1 MARR 
+2 DATE 04 Jun 1770
+2 PLAC Bradwell-Near-The-Sea,Essex,England
+2 SOUR @S-219478820@
+3 _APID 1,9852::36480717
+0 @F31@ FAM 
+1 HUSB @P94@
+1 WIFE @P83@
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 Jun 1847
+2 PLAC New Shoreham, Sussex, England
+2 SOUR @S-219845027@
+3 _APID 1,9852::24471328
+2 SOUR @S-210802610@
+3 _APID 1,8913::9136491
+0 @F32@ FAM 
+1 HUSB @P104@
+1 WIFE @P86@
+1 MARR 
+2 DATE 13 Apr 1861
+2 PLAC St Paul, Deptford, England
+2 SOUR @S-219179195@
+3 PAGE London Metropolitan Archives, Saint Paul, Deptford, Register of marriages, P75/PAU, Item 046
+3 _APID 1,1623::1764045
+2 SOUR @S-219179178@
+3 _APID 1,9852::15543851
+0 @F33@ FAM 
+1 HUSB @P98@
+1 WIFE @P124@
+1 CHIL @P123@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1891
+2 SOUR @S-219063576@
+3 PAGE Class: RG14; Piece: 5566; Schedule Number: 293
+3 _APID 1,2352::42444843
+0 @F34@ FAM 
+1 HUSB @P125@
+1 WIFE @P95@
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+0 @F35@ FAM 
+1 HUSB @P40@
+1 WIFE @P28@
+1 MARR 
+2 DATE 27 March 1937
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F36@ FAM 
+1 HUSB @P18@
+1 WIFE @P11@
+1 MARR 
+2 DATE 23 August 1935
+2 PLAC Belfast, Antrim, Northern Ireland
+0 @F37@ FAM 
+1 HUSB @P17@
+1 WIFE @P9@
+1 MARR 
+2 DATE 1947
+2 PLAC Liverpool North, Lancashire, England
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=image&guid=9658d818-21be-47c3-99e1-032a0daa0c88&tid=84811748&pid=9
+3 FORM jpg
+3 TITL BMD-M-1947-4-AZ-001457
+0 @F38@ FAM 
+1 HUSB @P92@
+1 WIFE @P91@
+1 CHIL @P133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P132@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P131@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 Jan 1793
+2 PLAC Poole, Dorset, England
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE3/3
+3 _APID 1,2243::1655098
+2 SOUR @S-212147103@
+3 PAGE Dorset History Centre; Dorset Parish Registers; Reference: PE/PL: RE5/2
+3 _APID 1,2243::1757018
+0 @F39@ FAM 
+1 HUSB @P129@
+1 WIFE @P130@
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM 
+1 HUSB @P1@
+1 CHIL @P2@
+2 _FREL Natural
+0 @F41@ FAM 
+1 HUSB @P50@
+1 CHIL @P53@
+2 _FREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+0 @F42@ FAM 
+1 HUSB @P48@
+1 CHIL @P30@
+2 _FREL Natural
+0 @R-844400996@ REPO
+1 NAME Ancestry.com
+0 @S-220165085@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Civil Registration Births Index, 1864-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165084@ SOUR
+1 REPO @R-844400996@
+1 TITL Web: Ireland, Census, 1901
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165083@ SOUR
+1 REPO @R-844400996@
+1 TITL Web: Ireland, Census, 1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165082@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Civil Registration Marriages Index, 1845-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165081@ SOUR
+1 REPO @R-844400996@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S-220165080@ SOUR
+1 TITL Web: Australia and New Zealand, Rootsweb Death Index, 1813-2003
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Australian and New Zealand Records
+0 @S-220165079@ SOUR
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Social Security Death Index, Master File
+0 @S-220165078@ SOUR
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Find A Grave
+0 @S-220165077@ SOUR
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Fifteenth Census of the United States, 1930
+0 @S-220165076@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Civil Registration Deaths Index, 1864-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165075@ SOUR
+1 REPO @R-844400996@
+1 TITL British Army WWI Service Records, 1914-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165074@ SOUR
+1 REPO @R-844400996@
+1 TITL British Army WWI Medal Rolls Index Cards, 1914-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165073@ SOUR
+1 TITL Web: Ireland, Census, 1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Census of Ireland 1901/1911
+0 @S-220165072@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Select Marriages, 1619-1898
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165071@ SOUR
+1 REPO @R-844400996@
+1 TITL Web: Northern Ireland, Will Calendar Index, 1839-1943
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165070@ SOUR
+1 REPO @R-844400996@
+1 TITL British Army WWI Pension Records 1914-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165069@ SOUR
+1 REPO @R-844400996@
+1 TITL 1891 Scotland Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165068@ SOUR
+1 REPO @R-844400996@
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165067@ SOUR
+1 REPO @R-844400996@
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165066@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165065@ SOUR
+1 REPO @R-844400996@
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165064@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Griffith’s Valuation, 1847-1864
+1 AUTH Heritage World Family History Services
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165063@ SOUR
+1 TITL Web: Northern Ireland, Will Calendar Index, 1858-1943
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Will Calendars
+0 @S-220165062@ SOUR
+1 REPO @R-844400996@
+1 TITL 1911 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165061@ SOUR
+1 TITL Ireland, Select Births and Baptisms, 1620-1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Ireland Births and Baptisms, 1620–1911
+0 @S-220165060@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Select Births and Baptisms, 1620-1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165059@ SOUR
+1 TITL West Virginia, Deaths Index, 1853-1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165058@ SOUR
+1 REPO @R-844400996@
+1 TITL West Virginia, Wills and Probate Records, 1724-1978
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-220165057@ SOUR
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220165056@ SOUR
+1 TITL Web: Ireland, Census, 1901
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Census of Ireland 1901/1911
+0 @S-220165055@ SOUR
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+0 @S-220112868@ SOUR
+1 REPO @R-844400996@
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8860::0
+0 @S-220112489@ SOUR
+1 REPO @R-844400996@
+1 TITL 1841 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+1 _APID 1,8978::0
+0 @S-220112013@ SOUR
+1 REPO @R-844400996@
+1 TITL 1861 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8767::0
+0 @S-220109567@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, Death Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7579::0
+0 @S-220109556@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+1 _APID 1,8753::0
+0 @S-220109533@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1966
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1904::0
+0 @S-220109061@ SOUR
+1 REPO @R-844400996@
+1 TITL UK and Ireland, Masters and Mates Certificates, 1850-1927
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2271::0
+0 @S-220095123@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Civil Registration Births Index, 1864-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2573::0
+0 @S-220091911@ SOUR
+1 REPO @R-844400996@
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9841::0
+0 @S-220086347@ SOUR
+1 REPO @R-844400996@
+1 TITL 1891 Wales Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6897::0
+0 @S-220081377@ SOUR
+1 REPO @R-844400996@
+1 TITL UK, Apprentices Indentured in Merchant Navy, 1824-1910
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60609::0
+0 @S-219939983@ SOUR
+1 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-219935279@ SOUR
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1871
+0 @S-219935272@ SOUR
+1 TITL 1841 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+1 NOTE Census Returns of England and Wales, 1841
+0 @S-219935271@ SOUR
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1851
+0 @S-219935270@ SOUR
+1 TITL 1861 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1861
+0 @S-219935269@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219935268@ SOUR
+1 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-219883220@ SOUR
+1 TITL UK and Ireland, Masters and Mates Certificates, 1850-1927
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Master's Certificates
+0 @S-219883139@ SOUR
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Marriages, 1538–1973
+0 @S-219845044@ SOUR
+1 REPO @R-844400996@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S-219845027@ SOUR
+1 REPO @R-844400996@
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9852::0
+0 @S-219845015@ SOUR
+1 REPO @R-844400996@
+1 TITL England, Select Essex Parish Registers, 1538-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9850::0
+0 @S-219692415@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Select Catholic Marriage Registers, 1775-1912
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9054::0
+0 @S-219510103@ SOUR
+1 TITL England, Select Essex Parish Registers, 1538-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Essex Parish Registers, 1538-1900
+0 @S-219510102@ SOUR
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Marriages, 1538–1973
+0 @S-219506407@ SOUR
+1 TITL England, Select Essex Parish Registers, 1538-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Essex Parish Registers, 1538-1900
+0 @S-219506406@ SOUR
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Marriages, 1538–1973
+0 @S-219478820@ SOUR
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Marriages, 1538–1973
+0 @S-219478798@ SOUR
+1 TITL England, Select Essex Parish Registers, 1538-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Essex Parish Registers, 1538-1900
+0 @S-219341784@ SOUR
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1881
+0 @S-219311457@ SOUR
+1 REPO @R-844400996@
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7619::0
+0 @S-219244472@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219244460@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219244388@ SOUR
+1 TITL London, England, Marriages and Banns, 1754-1921
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-219244364@ SOUR
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1901
+0 @S-219215563@ SOUR
+1 REPO @R-844400996@
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7572::0
+0 @S-219215524@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8914::0
+0 @S-219182115@ SOUR
+1 REPO @R-844400996@
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7814::0
+0 @S-219179833@ SOUR
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1891
+0 @S-219179522@ SOUR
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1891
+0 @S-219179469@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219179195@ SOUR
+1 TITL London, England, Marriages and Banns, 1754-1921
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-219179178@ SOUR
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Marriages, 1538–1973
+0 @S-219179154@ SOUR
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1881
+0 @S-219179132@ SOUR
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1891
+0 @S-219179066@ SOUR
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1871
+0 @S-219179058@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219178846@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219178714@ SOUR
+1 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-219178650@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219144380@ SOUR
+1 TITL England & Wales Marriages, 1538-1940
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE British Isles Vital Records Index, 2nd Edition
+0 @S-219144245@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-219143656@ SOUR
+1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-219072751@ SOUR
+1 REPO @R-844400996@
+1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8912::0
+0 @S-219070000@ SOUR
+1 REPO @R-844400996@
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6598::0
+0 @S-219063576@ SOUR
+1 REPO @R-844400996@
+1 TITL 1911 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2352::0
+0 @S-218981551@ SOUR
+1 REPO @R-844400996@
+1 TITL British Army WWI Service Records, 1914-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1219::0
+0 @S-218946651@ SOUR
+1 REPO @R-844400996@
+1 TITL Web: UK, Royal Marines Registers of Service Index, 1842-1925
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9739::0
+0 @S-218945642@ SOUR
+1 REPO @R-844400996@
+1 TITL UK, Incoming Passenger Lists, 1878-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1518::0
+0 @S-215749856@ SOUR
+1 REPO @R-844400996@
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2442::0
+0 @S-215749839@ SOUR
+1 REPO @R-844400996@
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2469::0
+0 @S-215749726@ SOUR
+1 REPO @R-844400996@
+1 TITL UK, Outward Passenger Lists, 1890-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2997::0
+0 @S-215749607@ SOUR
+1 REPO @R-844400996@
+1 TITL New York, Passenger Lists, 1820-1957
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,7488::0
+0 @S-212147103@ SOUR
+1 REPO @R-844400996@
+1 TITL Dorset, England, Church of England Baptisms, Marriages and Burials, 1538-1812
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2243::0
+0 @S-210827907@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-210827903@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE England, Births and Christenings, 1538-1975
+0 @S-210827898@ SOUR
+1 TITL England & Wales, Death Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-210827895@ SOUR
+1 TITL Ireland, Civil Registration Deaths Index, 1864-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-210827886@ SOUR
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1901
+0 @S-210827876@ SOUR
+1 TITL UK, Royal Navy Registers of Seamen's Services, 1853-1928
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+0 @S-210802684@ SOUR
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1851
+0 @S-210802656@ SOUR
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1871
+0 @S-210802643@ SOUR
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1881
+0 @S-210802623@ SOUR
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1871
+0 @S-210802610@ SOUR
+1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-210802593@ SOUR
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1891
+0 @S-210802573@ SOUR
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 NOTE Census Returns of England and Wales, 1851
+0 @S-210802561@ SOUR
+1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+1 NOTE England and Wales Civil Registration Indexes
+0 @S-209175390@ SOUR
+1 REPO @R-844400996@
+1 TITL Ireland, Catholic Parish Registers, 1655-1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61039::0
+0 @S300149048@ SOUR
+1 REPO @R-844400996@
+1 TITL Web: Ireland, Census, 1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70564::0
+0 TRLR
